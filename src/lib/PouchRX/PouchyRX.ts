@@ -40,14 +40,14 @@ export class PouchyRX<T extends DBItem> {
     );
   };
 
-  createIndex = (i: { index: { fields: string[] } }) => {
-    return this.db.pipe(
-      map((db) => {
-        return db.createIndex(i);
-      }),
-      mergeMap((o) => o)
-    );
-  };
+  // createIndex = (i: { index: { fields: string[] } }) => {
+  //   return this.db.pipe(
+  //     map((db) => {
+  //       return db.createIndex(i);
+  //     }),
+  //     mergeMap((o) => o)
+  //   );
+  // };
   constructor(
     dbName: string,
     options?:
@@ -57,13 +57,13 @@ export class PouchyRX<T extends DBItem> {
       | PouchDB.Configuration.RemoteDatabaseConfiguration
   ) {
     const db = new PouchDB<DBItem>(dbName, options);
-    PouchDB.plugin(require("pouchdb-find"));
+    // PouchDB.plugin(require("pouchdb-find"));
     this.db = of(db);
   }
 
-  init = () => {
-    return this.createIndex({ index: { fields: ["tags"] } });
-  };
+  // init = () => {
+  //   return this.createIndex({ index: { fields: ["tags"] } });
+  // };
   allDocs = (opts?: PouchDB.Core.AllDocsOptions) => {
     return this.db.pipe(
       filter((o) => o !== undefined),
@@ -91,4 +91,30 @@ export class PouchyRX<T extends DBItem> {
       )
     );
   };
+
+  bulkDocs = (docs: DBItem[]) => {
+    return this.db.pipe(
+      map(async (db) => {
+        try {
+          const allDocs = (await db.allDocs()).rows.map((doc) => {
+            return { id: doc.id, rev: doc.value.rev };
+          });
+          // return this.setRev(docs, allDocs);
+          console.log(allDocs);
+        } catch (error) {}
+      }),
+      mergeMap((o) => o)
+    );
+  };
+
+  private setRev = (docs: DBItem[], allDocs: { id: string; rev: string }[]) => {
+    return of(
+      docs.map((doc) => {
+        const oldDoc = allDocs.find((allDoc) => allDoc.id === doc._id);
+        doc._rev = oldDoc?.rev;
+      })
+    );
+  };
+
+  init = () => {};
 }
