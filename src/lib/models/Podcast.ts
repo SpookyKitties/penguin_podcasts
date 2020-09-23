@@ -1,4 +1,9 @@
+import seedRandom from "seed-random";
 import { DBItem } from "../PouchRX/DBItem";
+import { parseChildNodeTextContent } from "./parseChildNodeTextContent";
+import { Episode, parsePodcastEpisodes } from "./parsePodcastEpisodes";
+import { parseTextContent } from "./parseTextContent";
+import { queryChildNode } from "./queryChildNode";
 type PodcastImage = {
   urL?: string;
   title?: string;
@@ -25,17 +30,11 @@ export class Podcast implements DBItem {
   owner?: PodcastOwner;
   explicit: string;
   podcastType: string;
-
+  episodes: string[];
   image?: PodcastImage;
 }
 
 const rssChannel = "rss > channel";
-
-export function parseTextContent(document: Document, selector: string) {
-  const elmTxt = document.querySelector(selector)?.textContent;
-
-  return elmTxt ? elmTxt : "";
-}
 
 function parseTags(document: Document) {
   const tagsElement = document.querySelector(`${rssChannel} > keywords`);
@@ -46,7 +45,6 @@ function parseTags(document: Document) {
     : ["podcast"];
 }
 
-import seedRandom from "seed-random";
 function parseTitle(document: Document) {
   return parseTextContent(document, `${rssChannel} > title`);
 }
@@ -56,33 +54,6 @@ function parseID(link: string) {
 
 function parseLink(document: Document) {
   return parseTextContent(document, `${rssChannel} > link`);
-}
-
-function parseChildNodeTextContent(
-  document: Document,
-  selector: string,
-  nodeName: string
-) {
-  const elm = queryChildNode(document, selector, nodeName)?.textContent;
-
-  return elm ? elm : "";
-}
-
-function queryChildNode(
-  document: Document,
-  selector: string,
-  nodeName: string
-): HTMLElement | undefined {
-  const elm = document.querySelector(selector);
-  if (elm?.childNodes) {
-    const node = Array.from(elm.childNodes).filter(
-      (n) => n.nodeName === nodeName
-    )[0];
-    console.log(node);
-
-    return node ? (node as HTMLElement) : undefined;
-  }
-  return undefined;
 }
 
 function parseCopyright(document: Document): string {
@@ -150,12 +121,18 @@ function parseOwner(document: Document): PodcastOwner | undefined {
 
   return undefined;
 }
-export function parsePodcast(document: Document, url: string): Podcast {
-  return {
+export function parsePodcast(
+  document: Document,
+  url: string
+): [Podcast, Episode[]] {
+  const episodes = parsePodcastEpisodes(document);
+
+  const podcast: Podcast = {
     _id: parseID(url),
     author: parseAuthor(document),
     copyright: parseCopyright(document),
     url: url,
+    episodes: episodes.map((e) => e._id),
     description: parseDescription(document),
     explicit: parseExplicit(document),
     image: parseImage(document),
@@ -167,4 +144,9 @@ export function parsePodcast(document: Document, url: string): Podcast {
     tags: parseTags(document),
     title: parseTitle(document),
   };
+
+  console.log(podcast);
+  console.log(episodes);
+
+  return [podcast, episodes];
 }
