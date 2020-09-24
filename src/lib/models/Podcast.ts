@@ -30,7 +30,8 @@ export class Podcast implements DBItem {
   owner?: PodcastOwner;
   explicit: string;
   podcastType: string;
-  episodes: string[];
+  episodes?: Episode[];
+  episodeIDS: string[];
   image?: PodcastImage;
 }
 
@@ -132,7 +133,8 @@ export function parsePodcast(
     author: parseAuthor(document),
     copyright: parseCopyright(document),
     url: url,
-    episodes: episodes.map((e) => e._id),
+    episodeIDS: episodes.map((e) => e._id),
+    // episodes: episodes,
     description: parseDescription(document),
     explicit: parseExplicit(document),
     image: parseImage(document),

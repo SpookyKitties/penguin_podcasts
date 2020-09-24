@@ -99,9 +99,29 @@ export class PouchyRX<T extends DBItem> {
           const allDocs = (await db.allDocs()).rows.map((doc) => {
             return { id: doc.id, rev: doc.value.rev };
           });
-          // return this.setRev(docs, allDocs);
-          console.log(allDocs);
-        } catch (error) {}
+
+          docs.map(
+            (doc) => (doc._rev = allDocs.find((d) => d.id === doc._id)?.rev)
+          );
+
+          return db.bulkDocs(docs);
+        } catch (error) {
+          return undefined;
+        }
+      }),
+      mergeMap((o) => o)
+    );
+  };
+
+  bulkGet = (ids: { id: string }[]) => {
+    return this.db.pipe(
+      map(async (db) => {
+        const docs = await db.bulkGet({ docs: ids });
+        return docs.results
+          .filter((doc) => {
+            return (doc.docs[0] as any)?.ok !== undefined;
+          })
+          .map((doc) => doc.docs[0]["ok"] as DBItem);
       }),
       mergeMap((o) => o)
     );
