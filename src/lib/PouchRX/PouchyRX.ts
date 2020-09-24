@@ -68,10 +68,10 @@ export class PouchyRX<T extends DBItem> {
     return this.db.pipe(
       filter((o) => o !== undefined),
       map(async (db) => {
+        console.log(await db.allDocs(opts));
+
         return (await db.allDocs(opts ? opts : { skip: undefined })).rows
           .map((d) => {
-            console.log(d);
-
             return d.doc as DBItem;
           })
           .filter((o) => o?.tags !== undefined);
@@ -129,7 +129,13 @@ export class PouchyRX<T extends DBItem> {
 
   remove = (doc: DBItem & { _rev: string }) => {
     return this.db.pipe(
-      map((db) => db.remove(doc)),
+      map(async (db) => {
+        try {
+          await db.remove(doc, {});
+        } catch (error) {
+          console.log(error);
+        }
+      }),
       mergeMap((o) => o)
     );
   };

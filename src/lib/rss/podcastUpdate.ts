@@ -47,19 +47,14 @@ export function podcastUpdate([podcast, episodes]: [Podcast, Episode[]]) {
 }
 
 export function updatePodcasts() {
-  return db$
-    .findByTags(["podcast"])
-    .pipe(
-      map((podcasts: Podcast[]) => {
-        const update = podcasts.map(async (podcast) => {
-          const [pod, episodes] = await downloadPodcast(
-            podcast.url
-          ).toPromise();
-          return podcastUpdate([pod, episodes]).toPromise();
-        });
-        return Promise.all(update);
-      }),
-      mergeMap((o) => o)
-    )
-    .subscribe((o) => console.log(o));
+  return db$.findByTags(["podcast"]).pipe(
+    map((podcasts: Podcast[]) => {
+      const update = podcasts.map(async (podcast) => {
+        const [pod, episodes] = await downloadPodcast(podcast.url).toPromise();
+        return podcastUpdate([pod, episodes]).toPromise();
+      });
+      return Promise.all(update);
+    }),
+    mergeMap((o) => o)
+  );
 }

@@ -15,9 +15,9 @@ export function removePodcast(url: string) {
           })
         )
         .toPromise();
-      const promises = docs.map((doc) =>
-        db$.remove(doc as DBItem & { _rev: string }).toPromise()
-      );
+      const promises = docs
+        .map((doc) => db$.remove(doc as DBItem & { _rev: string }).toPromise())
+        .concat([db$.remove(podcast as DBItem & { _rev: string }).toPromise()]);
       return Promise.all(promises);
     }),
     mergeMap((o) => o)

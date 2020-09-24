@@ -21,7 +21,7 @@ export class HomeComponent implements OnInit {
     // );
 
     // db$.allDocs().subscribe((o) => console.log(o));
-    updatePodcasts();
+    updatePodcasts().subscribe();
     // downloadPodcast("http://localhost:4200/assets/rss.xml")
     //   .pipe(
     //     map(([podcast, episodes]) => {
