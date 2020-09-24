@@ -127,6 +127,13 @@ export class PouchyRX<T extends DBItem> {
     );
   };
 
+  remove = (doc: DBItem & { _rev: string }) => {
+    return this.db.pipe(
+      map((db) => db.remove(doc)),
+      mergeMap((o) => o)
+    );
+  };
+
   private setRev = (docs: DBItem[], allDocs: { id: string; rev: string }[]) => {
     return of(
       docs.map((doc) => {
