@@ -145,8 +145,5 @@ export function parsePodcast(
     title: parseTitle(document),
   };
 
-  console.log(podcast);
-  console.log(episodes);
-
   return [podcast, episodes];
 }

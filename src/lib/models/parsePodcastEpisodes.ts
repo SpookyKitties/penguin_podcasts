@@ -22,13 +22,19 @@ function parseTitle(elm: HTMLElement) {
   return parseTextContent(elm, `title`);
 }
 function parseAuthor(elm: HTMLElement) {
+  // console.log(parseChildNodeTextContent(elm, "", "itunes:author"));
+  console.log(
+    Array.from(elm.childNodes).filter((o) => o.nodeName === "itunes:author")[0]
+      ?.textContent
+  );
+
   return parseChildNodeTextContent(elm, "", "itunes:author");
 }
 function parseSubTitle(elm: HTMLElement) {
   return parseChildNodeTextContent(elm, "", "itunes:subtitle");
 }
 function parseDescription(elm: HTMLElement) {
-  return parseTextContent(elm, `description`);
+  return parseTextContent(elm, `description`)?.replace(/\n/g, "");
 }
 function parseUrl(elm: HTMLElement) {
   const url = elm.querySelector("enclosure")?.getAttribute("url");
@@ -47,7 +53,7 @@ function parseDuration(elm: HTMLElement) {
   return parseChildNodeTextContent(elm, "", "itunes:duration");
 }
 function parseTags(elm: HTMLElement) {
-  const tags = parseChildNodeTextContent(elm, "", "itunes:author");
+  const tags = parseChildNodeTextContent(elm, "", "itunes:keywords");
 
   return tags.split(",").map((tag) => tag.trim());
 }
@@ -64,7 +70,7 @@ export function parsePodcastEpisodes(document: Document) {
         link: parseLink(elm),
         pubDate: parsePubDate(elm),
         subTitle: parseSubTitle(elm),
-        tags: parseTags(elm),
+        tags: ["episode"].concat(parseTags(elm)),
         title: parseTitle(elm),
       };
     }

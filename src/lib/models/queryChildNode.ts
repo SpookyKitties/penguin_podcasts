@@ -8,7 +8,6 @@ export function queryChildNode(
     const node = Array.from(elm.childNodes).filter(
       (n) => n.nodeName === nodeName
     )[0];
-    console.log(node);
 
     return node ? (node as HTMLElement) : undefined;
   }

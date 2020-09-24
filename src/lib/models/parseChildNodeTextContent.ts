@@ -5,9 +5,9 @@ export function parseChildNodeTextContent(
   selector: string,
   nodeName: string
 ) {
-  const elm = (selector !== ""
+  const elm = (selector.trim() !== ""
     ? queryChildNode(document, selector, nodeName)
-    : document
+    : Array.from(document.childNodes).filter((o) => o.nodeName === nodeName)[0]
   )?.textContent;
 
   return elm ? elm : "";

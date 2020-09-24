@@ -2,7 +2,7 @@ import { Component, OnInit } from "@angular/core";
 import { ElectronService } from "./core/services";
 import { TranslateService } from "@ngx-translate/core";
 import { AppConfig } from "../environments/environment";
-import { db$ } from "../lib/rss/data";
+import { db$, downloadPodcast } from "../lib/rss/data";
 import { HttpClient } from "@angular/common/http";
 @Component({
   selector: "app-root",
@@ -30,17 +30,16 @@ export class AppComponent implements OnInit {
     db$.init(); //.subscribe();
   }
   ngOnInit(): void {
-    this.httpClient
-      .get("assets/rss.xml", { responseType: "text" })
-      .subscribe((o) => {
-        const domParser = new DOMParser();
-        console.log(
-          parsePodcast(
-            domParser.parseFromString(o, "text/xml"),
-            "https://skeptoid.com/podcast.xml"
-          )
-        );
-      });
+    // this.httpClient
+    //   .get("assets/rss.xml", { responseType: "text" })
+    //   .subscribe((o) => {
+    //     const domParser = new DOMParser();
+    //     const [podcast, episodes] = parsePodcast(
+    //       domParser.parseFromString(o, "text/xml"),
+    //       "https://skeptoid.com/podcast.xml"
+    //     );
+    //   });
   }
 }
 import { parsePodcast, Podcast } from "../lib/models/Podcast";
+import { catchError } from "rxjs/operators";
