@@ -1,7 +1,8 @@
 import { Component, OnInit } from "@angular/core";
 import { Router } from "@angular/router";
 import { map } from "rxjs/operators";
-import { downloadPodcast, update } from "../../lib/rss/data";
+import { downloadPodcast } from "../../lib/rss/data";
+import { podcastUpdate } from "../../lib/rss/podcastUpdate";
 
 @Component({
   selector: "app-home",
@@ -17,7 +18,7 @@ export class HomeComponent implements OnInit {
     downloadPodcast("http://localhost:4200/assets/rss.xml")
       .pipe(
         map(([podcast, episodes]) => {
-          update([podcast, episodes]);
+          podcastUpdate([podcast, episodes]);
         })
       )
       .subscribe();
