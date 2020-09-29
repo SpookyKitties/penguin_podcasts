@@ -1,7 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 import { Router } from "@angular/router";
 import { map } from "rxjs/operators";
-import { db$, downloadPodcast } from "../../lib/rss/data";
+import { db$, downloadPodcast, loadTestData } from "../../lib/rss/data";
 import { podcastUpdate, updatePodcasts } from "../../lib/rss/podcastUpdate";
 import { removePodcast } from "../../lib/rss/removePodcast";
 
@@ -15,13 +15,14 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {}
 
-  test() {
+  async test() {
+    await loadTestData();
     // removePodcast("http://localhost:4200/assets/rss.xml").subscribe((o) =>
     //   console.log(o)
     // );
 
     // db$.allDocs().subscribe((o) => console.log(o));
-    updatePodcasts().subscribe();
+    // updatePodcasts().subscribe();
     // downloadPodcast("http://localhost:4200/assets/rss.xml")
     //   .pipe(
     //     map(([podcast, episodes]) => {

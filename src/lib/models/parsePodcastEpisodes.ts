@@ -23,10 +23,10 @@ function parseTitle(elm: HTMLElement) {
 }
 function parseAuthor(elm: HTMLElement) {
   // console.log(parseChildNodeTextContent(elm, "", "itunes:author"));
-  console.log(
-    Array.from(elm.childNodes).filter((o) => o.nodeName === "itunes:author")[0]
-      ?.textContent
-  );
+  // console.log(
+  //   Array.from(elm.childNodes).filter((o) => o.nodeName === "itunes:author")[0]
+  //     ?.textContent
+  // );
 
   return parseChildNodeTextContent(elm, "", "itunes:author");
 }

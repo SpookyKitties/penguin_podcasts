@@ -3,6 +3,7 @@ import { DBItem } from "../PouchRX/DBItem";
 import { parseChildNodeTextContent } from "./parseChildNodeTextContent";
 import { Episode, parsePodcastEpisodes } from "./parsePodcastEpisodes";
 import { parseTextContent } from "./parseTextContent";
+import { Playlist } from "./Playlist";
 import { queryChildNode } from "./queryChildNode";
 type PodcastImage = {
   urL?: string;
@@ -15,7 +16,7 @@ type PodcastOwner = {
   email?: string;
 };
 
-export class Podcast implements DBItem {
+export class Podcast implements DBItem, Playlist {
   _id: string;
   _rev?: string;
   tags: string[];
@@ -105,8 +106,6 @@ function parseImage(document: Document) {
 function parseOwner(document: Document): PodcastOwner | undefined {
   const ownerElm = queryChildNode(document, rssChannel, "itunes:owner");
 
-  console.log(ownerElm);
-
   if (ownerElm) {
     const nameElm = Array.from(ownerElm.childNodes).filter(
       (e) => e.nodeName === "itunes:name"
@@ -122,6 +121,7 @@ function parseOwner(document: Document): PodcastOwner | undefined {
 
   return undefined;
 }
+
 export function parsePodcast(
   document: Document,
   url: string

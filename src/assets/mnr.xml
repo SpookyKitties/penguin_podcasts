@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+	<title>Major Nelson Radio</title>
+	<link>http://feeds.feedburner.com/mnitunes</link>
+	<itunes:author>Larry 'Major Nelson' Hryb</itunes:author>
+	<description>The only podcast from inside Xbox at Microsoft.  </description>
+	<pubDate>Mon, 07 Jul 2014 15:00:00 +0700</pubDate>
+	<language>en</language>
+	<copyright>Larry Hryb</copyright>
+	<managingEditor>major@xbox.com (Larry Hryb)</managingEditor>
+			<category>Xbox</category>
+			<category>Xbox Live</category>
+			<category>Xbox One</category>
+			<category>Xbox 360</category>
+			<category>Technology</category>
+			<category>Games</category>
+			<category>Gadgets</category>
+			<category>Podcasts</category>
+		<image>
+		<url>http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png</url>
+		<title>Xbox Live's Major Nelson Radio</title>
+		<link>http://feeds.feedburner.com/mnitunes</link>
+		<height>144</height>
+		<width>144</width>
+	</image>
+	<itunes:link rel="image" type="image/jpeg" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+	<itunes:image href="https://majornelson.com/wp-content/uploads/sites/7/2020/08/CXC_MNRadio_3000x3000.png" />
+	
+		
+		
+		
+		<itunes:keywords>918114,Xbox,Series,X,Xbox,Xbox,One,Microsoft,Sony,PS3,PS4,Nintendo,Stadia</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle>Major Nelson Radio</itunes:subtitle>
+	<itunes:summary>Direct from inside the Microsoft Xbox team, Larry Hryb (Xbox Live Gamertag: Major Nelson) discusses Xbox, Xbox Live, Xbox  gaming, technology, other gaming platforms (including the Playstation, and Nintendo), and much more in his weekly podcast. The only podcast direct from Xbox.</itunes:summary>
+	<ttl>30</ttl>
+	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/mnitunes" /><feedburner:info uri="mnitunes" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Larry Hryb</media:copyright><media:thumbnail url="https://majornelson.com/wp-content/uploads/sites/7/2020/08/CXC_MNRadio_3000x3000.png" /><media:keywords>918114,Xbox,Series,X,Xbox,Xbox,One,Microsoft,Sony,PS3,PS4,Nintendo,Stadia</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Games &amp; Hobbies/Video Games</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Gadgets</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Comedy</media:category><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Business/Business News</media:category><itunes:owner><itunes:email>Major@xbox.com</itunes:email><itunes:name>Larry 'Major Nelson' Hryb</itunes:name></itunes:owner><itunes:category text="Games &amp; Hobbies"><itunes:category text="Video Games" /></itunes:category><itunes:category text="Technology"><itunes:category text="Gadgets" /></itunes:category><itunes:category text="Technology"><itunes:category text="Tech News" /></itunes:category><itunes:category text="Comedy" /><itunes:category text="Business"><itunes:category text="Business News" /></itunes:category><geo:lat>47.677471</geo:lat><geo:long>-122.121383</geo:long><creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/3.0/</creativeCommons:license><feedburner:feedFlare href="http://www.podnova.com/add.srf?url=http%3A%2F%2Ffeeds.feedburner.com%2Fmnitunes" src="http://www.podnova.com/img_chicklet_podnova.gif">Subscribe with Podnova</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2Fmnitunes" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2Fmnitunes" src="//www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="https://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2Fmnitunes" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Ffeeds.feedburner.com%2Fmnitunes" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2Fmnitunes" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2Fmnitunes" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><item>
+	<published>true</published>
+	<title>Interview: Phil Spencer, Todd Howard &amp; Pete Hines about Bethesda joining Xbox</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/jYr5VHQ2uwI/</link>
+	<pubDate>Wed, 23 Sep 2020 11:05:43 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>Phil Spencer, Todd Howard,  Pete Hines and Major Nelson discuss the recent news of Bethesda joining Xbox and tell a few stories of working together.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=jYr5VHQ2uwI:2HyRIcbI71s:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=jYr5VHQ2uwI:2HyRIcbI71s:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/jYr5VHQ2uwI" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:24:51</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>Phil Spencer, Todd Howard,  Pete Hines and Major Nelson discuss the recent news of Bethesda joining Xbox and tell a few stories of working together.
+</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/-amQECZV6V4/898252948-716-bethesda-joins-the-xbox.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/interview-phil-spencer-todd-howard-pete-hines-about-bethesda-joining-xbox/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/-amQECZV6V4/898252948-716-bethesda-joins-the-xbox.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/898252948-716-bethesda-joins-the-xbox.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>715: Jason Ronald on Xbox Series S</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/22aMAhfOj_g/</link>
+	<pubDate>Fri, 18 Sep 2020 10:08:24 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>00:00 Xbox News
+18:02 Interview: Jason Ronald, Xbox Series S
+30:43 More Xbox News &amp;#038; Wrap up&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=22aMAhfOj_g:sTTNmneaDXU:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=22aMAhfOj_g:sTTNmneaDXU:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/22aMAhfOj_g" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:38:21</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>00:00 Xbox News
+18:02 Interview: Jason Ronald, Xbox Series S
+30:43 More Xbox News &amp; Wrap up</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/sXXAU88hzh0/895528795-715-jason-ronald-on-xbox.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/715-jason-ronald-on-xbox-series-s/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/sXXAU88hzh0/895528795-715-jason-ronald-on-xbox.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/895528795-715-jason-ronald-on-xbox.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>714: Xbox Series S, The Outer Worlds: Peril on Gorgon</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/6YT76zn-rYY/</link>
+	<pubDate>Fri, 11 Sep 2020 08:30:19 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>22:17 Interview: Carrie Patel , The Outer Worlds: Peril on Gorgon&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=6YT76zn-rYY:pImr9eSAsaQ:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=6YT76zn-rYY:pImr9eSAsaQ:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/6YT76zn-rYY" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:34:40</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>22:17 Interview: Carrie Patel , The Outer Worlds: Peril on Gorgon</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/cxxRtbCwju0/891587398-714-xbox-series-s-the-outer.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/714-xbox-series-s-the-outer-worlds-peril-on-gorgon/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/cxxRtbCwju0/891587398-714-xbox-series-s-the-outer.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/891587398-714-xbox-series-s-the-outer.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>713: Drake Hollow</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/3C_yuLykYQs/</link>
+	<pubDate>Fri, 04 Sep 2020 09:14:54 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>00:00 Xbox News
+18:36  Forrest Dowling, Studio &amp;#038; Creative Director, The Molasses Flood creators of "Drake Hollow"
+32:51 More Xbox News &amp;#038; Wrap up&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=3C_yuLykYQs:3YdaP8qez-8:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=3C_yuLykYQs:3YdaP8qez-8:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/3C_yuLykYQs" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:45:11</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>00:00 Xbox News
+18:36  Forrest Dowling, Studio &amp; Creative Director, The Molasses Flood creators of "Drake Hollow"
+32:51 More Xbox News &amp; Wrap up</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/4TpmwV4UNfc/887137210-713-drake-hollow.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/713-drake-hollow/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/4TpmwV4UNfc/887137210-713-drake-hollow.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/887137210-713-drake-hollow.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>712: Tell Me Why and Wasteland 3</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/Ovb0f2BoMg8/</link>
+	<pubDate>Fri, 28 Aug 2020 12:45:05 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>00:00 Xbox New
+18:51 Florent Guillaume, "Tell Me Why" from Dont Nod Entertainment
+34:48 More Xbox News
+41:20   Brian Fargo, "Wasteland 3" from inXile Entertainment
+1:04:39 Wrap up&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=Ovb0f2BoMg8:rEKas9GDV1M:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=Ovb0f2BoMg8:rEKas9GDV1M:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/Ovb0f2BoMg8" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>1:13:46</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>00:00 Xbox New
+18:51 Florent Guillaume, "Tell Me Why" from Dont Nod Entertainment
+34:48 More Xbox News
+41:20   Brian Fargo, "Wasteland 3" from inXile Entertainment
+1:04:39 Wrap up</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/2Pb7hwbWlAw/883058797-712-tell-me-why-and-wasteland.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/712-tell-me-why-and-wasteland-3/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/2Pb7hwbWlAw/883058797-712-tell-me-why-and-wasteland.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/883058797-712-tell-me-why-and-wasteland.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>711: More details about The New Xbox Experience</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/I3vDf3pyNIw/</link>
+	<pubDate>Tue, 25 Aug 2020 10:01:04 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>00:00 Intro with Chris Novak, Head of Research and Design, Xbox.
+12:05 Steven Higgins, Xbox Visual Refresh
+21:03 Travis St. Onge, Xbox Guide
+32:00 Catarina Macedo, Xbox Community Experiences
+38:09 Jake Rosenberg, Sign in on multiple devices&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=I3vDf3pyNIw:eWRc8jHxApk:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=I3vDf3pyNIw:eWRc8jHxApk:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/I3vDf3pyNIw" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:41:55</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>00:00 Intro with Chris Novak, Head of Research and Design, Xbox.
+12:05 Steven Higgins, Xbox Visual Refresh
+21:03 Travis St. Onge, Xbox Guide
+32:00 Catarina Macedo, Xbox Community Experiences
+38:09 Jake Rosenberg, Sign in on multiple devices</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/-1_KyTUKdG8/881436589-711-more-details-about-the-new.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/711-more-details-about-the-new-xbox-experience/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/-1_KyTUKdG8/881436589-711-more-details-about-the-new.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/881436589-711-more-details-about-the-new.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>710: Gary Whitta and Microsoft Flight Simulator</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/g8J0IDWgV9I/</link>
+	<pubDate>Fri, 21 Aug 2020 14:59:32 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>The Xbox Video Podcast with Larry Hryb, Xbox's Major Nelson &amp;#038; Jeff Rubenstein.
+We discuss the latest news, and more.
+
+00:00 Special guest co-host Gary Whitta
+28:54 Jorg Neumann, Head Of Microsoft Flight Simulator
+1:00:32 More News. And More Gary&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=g8J0IDWgV9I:RogNGY9-xQs:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=g8J0IDWgV9I:RogNGY9-xQs:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/g8J0IDWgV9I" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>1:24:17</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>The Xbox Video Podcast with Larry Hryb, Xbox's Major Nelson &amp; Jeff Rubenstein.
+We discuss the latest news, and more.
+
+00:00 Special guest co-host Gary Whitta
+28:54 Jorg Neumann, Head Of Microsoft Flight Simulator
+1:00:32 More News. And More Gary</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/VkmR-FwIVxA/879790777-710-gary-whitta-and-microsoft.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/710-gary-whitta-and-microsoft-flight-simulator/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/VkmR-FwIVxA/879790777-710-gary-whitta-and-microsoft.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/879790777-710-gary-whitta-and-microsoft.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>709: ID @ Xbox Celebrates Over 2000 titles</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/H34jycDwYSY/</link>
+	<pubDate>Fri, 14 Aug 2020 08:06:01 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=H34jycDwYSY:Vx4ghCTPOL0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=H34jycDwYSY:Vx4ghCTPOL0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/H34jycDwYSY" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:45:54</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/o_ZoZC6Awrc/875421301-709-id-xbox-celebrates-over.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/709-id-xbox-celebrates-over-2000-titles/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/o_ZoZC6Awrc/875421301-709-id-xbox-celebrates-over.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/875421301-709-id-xbox-celebrates-over.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>708: Xbox Game Pass cloud gaming and Shredders</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/IyUeeNQPEOU/</link>
+	<pubDate>Fri, 07 Aug 2020 13:53:32 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=IyUeeNQPEOU:KUaogXW6bGo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=IyUeeNQPEOU:KUaogXW6bGo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/IyUeeNQPEOU" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:50:12</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/4w3MKTwTfBs/871494760-708-xbox-game-pass-cloud.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/708-xbox-game-pass-cloud-gaming-and-shredders/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/4w3MKTwTfBs/871494760-708-xbox-game-pass-cloud.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/871494760-708-xbox-game-pass-cloud.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>707: The new store on Xbox</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/kJrA6Qrk7DM/</link>
+	<pubDate>Mon, 03 Aug 2020 08:05:33 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=kJrA6Qrk7DM:jbFVRssATfo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=kJrA6Qrk7DM:jbFVRssATfo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/kJrA6Qrk7DM" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:55:15</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/gZOFq1662AA/868162252-707-the-new-microsoft-store.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/707-the-new-store-on-xbox/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/gZOFq1662AA/868162252-707-the-new-microsoft-store.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/868162252-707-the-new-microsoft-store.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>706: SXS Velocity Architecture, Cris Tales &amp; Skate Bird</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/4MKJOi0tY10/</link>
+	<pubDate>Fri, 17 Jul 2020 12:57:28 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=4MKJOi0tY10:iq_3D6eQX5M:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=4MKJOi0tY10:iq_3D6eQX5M:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/4MKJOi0tY10" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>1:30:28</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/8DaxMp23-C8/859273789-706-cris-tales-skate-bird-and.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/706-sxs-velocity-architecture-cris-tales-skate-bird/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/8DaxMp23-C8/859273789-706-cris-tales-skate-bird-and.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/859273789-706-cris-tales-skate-bird-and.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>705: The latest Xbox News and more</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/fT-ch0VjWdg/</link>
+	<pubDate>Fri, 10 Jul 2020 12:07:13 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>The Xbox Video Podcast with Larry Hryb, Xbox's Major Nelson &amp;#038; Jeff Rubenstein.
+We discuss the latest news, and more.&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=fT-ch0VjWdg:YwYLyx7XON0:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=fT-ch0VjWdg:YwYLyx7XON0:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/fT-ch0VjWdg" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:38:08</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>The Xbox Video Podcast with Larry Hryb, Xbox's Major Nelson &amp; Jeff Rubenstein.
+We discuss the latest news, and more.</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/hsWdgpDP1TA/855107389-705-the-latest-xbox-news-and.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/705-the-latest-xbox-news-and-more/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/hsWdgpDP1TA/855107389-705-the-latest-xbox-news-and.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/855107389-705-the-latest-xbox-news-and.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>704: The Medium and Call of the Sea on Xbox Series X</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/KfzTzM8ZtX0/</link>
+	<pubDate>Fri, 26 Jun 2020 08:50:07 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+			<category>Xbox Series X</category>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=KfzTzM8ZtX0:Emrl-bAOXbo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=KfzTzM8ZtX0:Emrl-bAOXbo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/KfzTzM8ZtX0" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>1:25:46</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/EOxwYw9OcDk/847018822-704-the-medium-call-of-the-sea.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/704-the-medium-and-call-of-the-sea-on-xbox-series-x/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/EOxwYw9OcDk/847018822-704-the-medium-call-of-the-sea.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/847018822-704-the-medium-call-of-the-sea.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>703: XSX Back Compat, Smart Delivery and The Ascent</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/EEz2NdADDks/</link>
+	<pubDate>Thu, 18 Jun 2020 22:51:39 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+			<category>Podcast</category>
+			<category>Xbox Series X</category>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=EEz2NdADDks:Lg_gNhsm8Fo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=EEz2NdADDks:Lg_gNhsm8Fo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/EEz2NdADDks" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>1:15:04</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/bPOcjQ3tPSQ/842054968-703-the-ascent-smart-delivery.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/703-xsx-back-compat-smart-delivery-and-the-ascent/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/bPOcjQ3tPSQ/842054968-703-the-ascent-smart-delivery.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/842054968-703-the-ascent-smart-delivery.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>702: Dirt 5 and the power of Xbox Series X</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/nv-uNyKTkTU/</link>
+	<pubDate>Thu, 11 Jun 2020 09:52:18 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=nv-uNyKTkTU:139WhF4XPhE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=nv-uNyKTkTU:139WhF4XPhE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/nv-uNyKTkTU" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:23:57</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/dm7LR3iTamw/837877678-702-dirt-5s-david-springate-on.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/702-dirt-5-and-the-power-of-xbox-series-x/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/dm7LR3iTamw/837877678-702-dirt-5s-david-springate-on.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/837877678-702-dirt-5s-david-springate-on.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>701: Xbox News and more</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/AFM-6xENHqs/</link>
+	<pubDate>Fri, 29 May 2020 14:47:36 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>The audio from our new video podcast format
+Larry Hryb, Xbox Major Nelson
+Gamertag: Rubes
+Xbox News
+and more!
+Watch the video here: youtu.be/7M71GOuOm4s&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=AFM-6xENHqs:kxmsoftx3Zw:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=AFM-6xENHqs:kxmsoftx3Zw:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/AFM-6xENHqs" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:44:44</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>The audio from our new video podcast format
+Larry Hryb, Xbox Major Nelson
+Gamertag: Rubes
+Xbox News
+and more!
+Watch the video here: youtu.be/7M71GOuOm4s</itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/9IHEamnfvjQ/830605603-mnr-701-video-podcast-ep-2.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/701-xbox-news-and-more/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/9IHEamnfvjQ/830605603-mnr-701-video-podcast-ep-2.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/830605603-mnr-701-video-podcast-ep-2.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>700: Our first video podcast</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/l_1oblldWOg/</link>
+	<pubDate>Fri, 22 May 2020 09:41:02 -0700</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>This is the audio from our first video podcast. Watch the full video of this show here https://www.youtube.com/watch?v=ujivwZbsU8k&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=l_1oblldWOg:6KcLJIxRZFo:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=l_1oblldWOg:6KcLJIxRZFo:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/l_1oblldWOg" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:56:04</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary>This is the audio from our first video podcast. Watch the full video of this show here https://www.youtube.com/watch?v=ujivwZbsU8k </itunes:summary>
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/AKB6Ozj544o/825912457-mnr-700-video-podcast-ep-1.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/700-our-first-video-podcast/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/AKB6Ozj544o/825912457-mnr-700-video-podcast-ep-1.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/825912457-mnr-700-video-podcast-ep-1.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>648: The latest news and a new Ori</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/KJce0QnHA2c/</link>
+	<pubDate>Fri, 06 Mar 2020 14:51:15 -0800</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=KJce0QnHA2c:PXtTJfC7fzE:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=KJce0QnHA2c:PXtTJfC7fzE:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/KJce0QnHA2c" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:40:42</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/WnWFXFiL98Q/771974794-648-its-ori-time.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/648-the-latest-news-and-a-new-ori/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/WnWFXFiL98Q/771974794-648-its-ori-time.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/771974794-648-its-ori-time.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>647: What You Can Expect From the Next Generation of Gaming</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/1BYDWJFjoIM/</link>
+	<pubDate>Wed, 26 Feb 2020 09:08:06 -0800</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+			<category>Xbox Series X</category>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=1BYDWJFjoIM:79gWDEiv8BI:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=1BYDWJFjoIM:79gWDEiv8BI:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/1BYDWJFjoIM" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:19:24</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/PUhHo4G-hqw/766431835-647-xbox-series-x-12-teraflops.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/647-what-you-can-expect-from-the-next-generation-of-gaming/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/PUhHo4G-hqw/766431835-647-xbox-series-x-12-teraflops.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/766431835-647-xbox-series-x-12-teraflops.mp3</feedburner:origEnclosureLink></item>
+<item>
+	<published>true</published>
+	<title>646: Welcome to 20/20</title>
+	<link>http://feedproxy.google.com/~r/mnitunes/~3/GN9lPvUenyk/</link>
+	<pubDate>Fri, 10 Jan 2020 13:33:24 -0800</pubDate>
+	<dc:creator>Major@xbox.com (Larry 'Major Nelson' Hryb)</dc:creator>
+		
+	<description>&lt;div class="feedflare"&gt;
+&lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=GN9lPvUenyk:yi4-PZ1YB4E:yIl2AUoC8zA"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=yIl2AUoC8zA" border="0"&gt;&lt;/img&gt;&lt;/a&gt; &lt;a href="http://feeds.feedburner.com/~ff/mnitunes?a=GN9lPvUenyk:yi4-PZ1YB4E:qj6IDK7rITs"&gt;&lt;img src="http://feeds.feedburner.com/~ff/mnitunes?d=qj6IDK7rITs" border="0"&gt;&lt;/img&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;img src="http://feeds.feedburner.com/~r/mnitunes/~4/GN9lPvUenyk" height="1" width="1" alt=""/&gt;</description>
+	<itunes:duration>0:40:31</itunes:duration>
+	<itunes:keywords>xbox,360,live,major,nelson,microsoft</itunes:keywords>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:subtitle />
+	<itunes:summary />
+	<itunes:author>Larry Hryb</itunes:author>
+		<itunes:link rel="image" type="image/png" href="http://majornelson.com/wp-content/themes/ms-majornelson/assets/img/xbox-podcast-art-controller.png">Xbox Live's Major Nelson Radio</itunes:link>
+<media:content url="http://feedproxy.google.com/~r/mnitunes/~5/idpVVKicczo/741506401-646-welcome-to-2020.mp3" type="audio/mpeg" /><feedburner:origLink>https://majornelson.com/podcast/646-welcome-to-20-20/</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/mnitunes/~5/idpVVKicczo/741506401-646-welcome-to-2020.mp3" length="0" type="audio/mpeg" /><feedburner:origEnclosureLink>http://feeds.soundcloud.com/stream/741506401-646-welcome-to-2020.mp3</feedburner:origEnclosureLink></item>
+<media:credit role="author">Larry 'Major Nelson' Hryb</media:credit><media:rating>nonadult</media:rating><media:description type="plain">Major Nelson Radio</media:description></channel>
+</rss>
