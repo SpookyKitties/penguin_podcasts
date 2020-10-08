@@ -3,7 +3,7 @@ import { ActivatedRoute } from "@angular/router";
 import { filter, flatMap, map } from "rxjs/operators";
 import { Episode } from "../../../lib/models/parsePodcastEpisodes";
 import { Podcast } from "../../../lib/models/Podcast";
-import { db$ } from "../../../lib/rss/data";
+import { currentEpisode, db$ } from "../../../lib/rss/data";
 
 @Component({
   selector: "app-podcast",
@@ -15,6 +15,9 @@ export class PodcastComponent implements OnInit {
   public episodes: Episode[];
   constructor(public activatedRoute: ActivatedRoute) {}
 
+  playEpisode(episode: Episode): void {
+    currentEpisode.next(episode);
+  }
   ngOnInit(): void {
     this.activatedRoute.params
       .pipe(

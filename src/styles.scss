@@ -48,12 +48,22 @@
 //   }
 // }
 
+$player_height: 64px;
 @import "./bootstrap.min.scss";
 
 body {
   overflow: hidden;
+
+  #app_container {
+    display: grid;
+    grid-template-rows: calc(100vh - #{$player_height}) $player_height;
+  }
   main {
-    height: 100vh;
+    height: calc(100vh - #{$player_height});
     overflow-y: scroll;
+  }
+  #player_container {
+    height: $player_height;
+    z-index: 100;
   }
 }

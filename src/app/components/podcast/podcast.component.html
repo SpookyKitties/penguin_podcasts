@@ -4,7 +4,7 @@
     class="table table-striped table-sm"
     *ngIf="this.episodes !== undefined"
   >
-    <tr *ngFor="let episode of this.episodes">
+    <tr *ngFor="let episode of this.episodes" (click)="playEpisode(episode)">
       <td style="max-width: 200px">{{ episode.title }}</td>
       <td>{{ this.podcast.title }}</td>
       <td>

@@ -1,12 +1,17 @@
 import axios from "axios";
-import { Observable, of } from "rxjs";
+import { BehaviorSubject, Observable, of } from "rxjs";
 import { map, mergeMap } from "rxjs/operators";
+import { Episode } from "../models/parsePodcastEpisodes";
 import { parsePodcast, Podcast } from "../models/Podcast";
 import { PouchyRX } from "../PouchRX/PouchyRX";
 import { updatePodcasts } from "./podcastUpdate";
 export const db$ = new PouchyRX("penguin_podcasts");
 
 export const podcasts$: Observable<Podcast[]> = of([]);
+
+export const currentEpisode = new BehaviorSubject<Episode | undefined>(
+  undefined
+);
 
 podcasts$.subscribe(async (o) => {
   console.log(o);
