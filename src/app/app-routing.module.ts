@@ -9,12 +9,14 @@ import { PlaylistComponent } from "./components/playlist/playlist.component";
 import { UnplayedComponent } from "./components/unplayed/unplayed.component";
 import { DownloadedComponent } from "./components/downloaded/downloaded.component";
 import { SettingsComponent } from "./components/settings/settings.component";
+import { PodcastComponent } from "./components/podcast/podcast.component";
 
 const routes: Routes = [
   {
     path: "",
     component: LibraryComponent,
   },
+  { path: "podcast/:_id", component: PodcastComponent },
   { path: "library", component: LibraryComponent },
   { path: "Playlist", component: PlaylistComponent },
   { path: "unplayed", component: UnplayedComponent },

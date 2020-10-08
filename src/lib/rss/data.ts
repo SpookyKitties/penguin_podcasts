@@ -3,6 +3,7 @@ import { Observable, of } from "rxjs";
 import { map, mergeMap } from "rxjs/operators";
 import { parsePodcast, Podcast } from "../models/Podcast";
 import { PouchyRX } from "../PouchRX/PouchyRX";
+import { updatePodcasts } from "./podcastUpdate";
 export const db$ = new PouchyRX("penguin_podcasts");
 
 export const podcasts$: Observable<Podcast[]> = of([]);

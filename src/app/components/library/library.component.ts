@@ -15,5 +15,6 @@ export class LibraryComponent implements OnInit {
 
   async ngOnInit(): Promise<void> {
     this.podcasts = (await getPodcasts().toPromise()) as Podcast[];
+    console.log(this.podcasts);
   }
 }

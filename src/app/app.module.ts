@@ -24,6 +24,11 @@ import { LibraryComponent } from './components/library/library.component';
 import { DownloadedComponent } from './components/downloaded/downloaded.component';
 import { UnplayedComponent } from './components/unplayed/unplayed.component';
 import { PlaylistComponent } from './components/playlist/playlist.component';
+import { LibraryCardComponent } from './components/library-card/library-card.component';
+import { PodcastComponent } from './components/podcast/podcast.component';
+import { PodcastListItemComponent } from './components/podcast-list-item/podcast-list-item.component';
+import { PodcastEpisodeListItemComponent } from './components/podcast-episode-list-item/podcast-episode-list-item.component';
+import { PodcastEpisodeDateComponent } from './components/podcast-episode-date/podcast-episode-date.component';
 
 // AoT requires an exported function for factories
 export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
@@ -31,7 +36,7 @@ export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
 }
 
 @NgModule({
-  declarations: [AppComponent, SidebarComponent, SettingsComponent, LibraryComponent, DownloadedComponent, UnplayedComponent, PlaylistComponent],
+  declarations: [AppComponent, SidebarComponent, SettingsComponent, LibraryComponent, DownloadedComponent, UnplayedComponent, PlaylistComponent, LibraryCardComponent, PodcastComponent, PodcastListItemComponent, PodcastEpisodeListItemComponent, PodcastEpisodeDateComponent],
   imports: [
     BrowserModule,
     FormsModule,

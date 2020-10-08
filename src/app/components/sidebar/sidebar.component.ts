@@ -1,4 +1,5 @@
 import { Component, OnInit } from "@angular/core";
+import { addPodcast } from "../../../lib/rss/addPodcast";
 
 @Component({
   selector: "[sidebar]",
@@ -9,4 +10,8 @@ export class SidebarComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {}
+
+  addPodcast(): void {
+    addPodcast();
+  }
 }

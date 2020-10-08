@@ -6,7 +6,7 @@ import { parseTextContent } from "./parseTextContent";
 import { Playlist } from "./Playlist";
 import { queryChildNode } from "./queryChildNode";
 type PodcastImage = {
-  urL?: string;
+  url?: string;
   title?: string;
   link?: string;
 };

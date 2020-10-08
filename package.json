@@ -99,6 +99,7 @@
   "dependencies": {
     "@types/pouchdb": "6.4.0",
     "@types/seed-random": "2.2.0",
+    "isurl": "4.0.1",
     "pouchdb": "7.2.2",
     "seed-random": "2.2.0"
   }

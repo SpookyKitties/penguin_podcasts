@@ -1,0 +1,18 @@
+<p>podcast works!</p>
+<ng-container *ngIf="this.podcast">
+  <table
+    class="table table-striped table-sm"
+    *ngIf="this.episodes !== undefined"
+  >
+    <tr *ngFor="let episode of this.episodes">
+      <td style="max-width: 200px">{{ episode.title }}</td>
+      <td>{{ this.podcast.title }}</td>
+      <td>
+        <app-podcast-episode-date
+          [pubDate]="episode.pubDate"
+        ></app-podcast-episode-date>
+      </td>
+      <td>{{ episode.duration }}</td>
+    </tr>
+  </table>
+</ng-container>

@@ -1,0 +1,15 @@
+<div
+  class="card"
+  style="width: 200px"
+  *ngIf="this.podcast?.image && this.podcast?._id"
+  (click)="open()"
+>
+  <img
+    class="card-img-top"
+    [src]="this.podcast.image?.url"
+    alt="Card image cap"
+  />
+  <div class="card-body">
+    <h5 class="card-title">{{ podcast.title }}</h5>
+  </div>
+</div>
