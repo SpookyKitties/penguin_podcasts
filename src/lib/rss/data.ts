@@ -1,9 +1,8 @@
-import { PouchyRX } from "../PouchRX/PouchyRX";
 import axios from "axios";
-import { BehaviorSubject, Observable, of, Subject } from "rxjs";
-import { catchError, filter, map, mergeMap } from "rxjs/operators";
+import { Observable, of } from "rxjs";
+import { map, mergeMap } from "rxjs/operators";
 import { parsePodcast, Podcast } from "../models/Podcast";
-import { podcastUpdate } from "./podcastUpdate";
+import { PouchyRX } from "../PouchRX/PouchyRX";
 export const db$ = new PouchyRX("penguin_podcasts");
 
 export const podcasts$: Observable<Podcast[]> = of([]);
@@ -60,4 +59,8 @@ export async function loadTestData() {
   } catch (error) {
     console.log(error);
   }
+}
+
+export function getPodcasts() {
+  return db$.findByTags(["podcast"]);
 }

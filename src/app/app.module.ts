@@ -18,6 +18,12 @@ import { HomeModule } from './home/home.module';
 import { DetailModule } from './detail/detail.module';
 
 import { AppComponent } from './app.component';
+import { SidebarComponent } from './components/sidebar/sidebar.component';
+import { SettingsComponent } from './components/settings/settings.component';
+import { LibraryComponent } from './components/library/library.component';
+import { DownloadedComponent } from './components/downloaded/downloaded.component';
+import { UnplayedComponent } from './components/unplayed/unplayed.component';
+import { PlaylistComponent } from './components/playlist/playlist.component';
 
 // AoT requires an exported function for factories
 export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
@@ -25,7 +31,7 @@ export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
 }
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, SidebarComponent, SettingsComponent, LibraryComponent, DownloadedComponent, UnplayedComponent, PlaylistComponent],
   imports: [
     BrowserModule,
     FormsModule,
