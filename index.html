@@ -1,13 +1,23 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>Angular Electron</title>
-  <base href="/penguin_podcasts/">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="assets/icons/favicon.ico">
-<link rel="stylesheet" href="styles.8197df76145dd15488ea.css"></head>
-<body>
-  <app-root>Loading...</app-root>
-<script src="runtime.c51bd5b1c616d9ffddc1.js" defer></script><script src="polyfills-es5.132e4a0250a4a06e03f1.js" nomodule defer></script><script src="polyfills.1f16fb7ba83b821f0d23.js" defer></script><script src="main.af75194b4393164cbd3a.js" defer></script></body>
+  <head>
+    <meta charset="utf-8" />
+    <title>Angular Electron</title>
+    <base href="/penguin_podcasts/">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="assets/icons/favicon.ico" />
+    <script>
+      // See http://www.backalleycoder.com/2016/05/13/sghpa-the-single-page-app-hack-for-github-pages/
+      (function () {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect != location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+  <link rel="stylesheet" href="styles.8197df76145dd15488ea.css"></head>
+  <body>
+    <app-root>Loading...</app-root>
+  <script src="runtime.c51bd5b1c616d9ffddc1.js" defer></script><script src="polyfills-es5.132e4a0250a4a06e03f1.js" nomodule defer></script><script src="polyfills.1f16fb7ba83b821f0d23.js" defer></script><script src="main.af75194b4393164cbd3a.js" defer></script></body>
 </html>
