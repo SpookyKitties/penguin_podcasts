@@ -22,9 +22,9 @@ export class LibraryCardComponent implements OnInit, OnDestroy {
 
   ngOnInit(): void {
     this.updateView();
-    this.interval = setInterval(() => {
-      console.log(this.podcast);
-    }, 1000);
+    // this.interval = setInterval(() => {
+    //   console.log(this.podcast);
+    // }, 1000);
   }
 
   open() {

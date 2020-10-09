@@ -49,6 +49,7 @@
 // }
 
 $player_height: 64px;
+$title_bar_height: 48px;
 @import "./bootstrap.min.scss";
 
 body {
@@ -56,7 +57,9 @@ body {
 
   #app_container {
     display: grid;
-    grid-template-rows: calc(100vh - #{$player_height}) $player_height;
+    grid-template-rows:
+      $title_bar_height calc(100vh - #{$title_bar_height} - #{$player_height})
+      $player_height;
   }
   main {
     height: calc(100vh - #{$player_height});
@@ -65,5 +68,10 @@ body {
   #player_container {
     height: $player_height;
     z-index: 100;
+  }
+  #title_bar {
+    height: $title_bar_height;
+  }
+  #sidebarMenu {
   }
 }

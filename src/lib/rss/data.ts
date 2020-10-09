@@ -1,5 +1,5 @@
 import axios from "axios";
-import { BehaviorSubject, Observable, of } from "rxjs";
+import { BehaviorSubject, Observable, of, Subject } from "rxjs";
 import { map, mergeMap } from "rxjs/operators";
 import { Episode } from "../models/parsePodcastEpisodes";
 import { parsePodcast, Podcast } from "../models/Podcast";
@@ -12,6 +12,8 @@ export const podcasts$: Observable<Podcast[]> = of([]);
 export const currentEpisode = new BehaviorSubject<Episode | undefined>(
   undefined
 );
+
+export const sideBar$ = new Subject();
 
 podcasts$.subscribe(async (o) => {
   console.log(o);

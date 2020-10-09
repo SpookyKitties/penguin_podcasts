@@ -30,6 +30,7 @@ import { PodcastListItemComponent } from './components/podcast-list-item/podcast
 import { PodcastEpisodeListItemComponent } from './components/podcast-episode-list-item/podcast-episode-list-item.component';
 import { PodcastEpisodeDateComponent } from './components/podcast-episode-date/podcast-episode-date.component';
 import { PlayerComponent } from './components/player/player.component';
+import { TitlebarComponent } from './components/titlebar/titlebar.component';
 
 // AoT requires an exported function for factories
 export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
@@ -37,7 +38,7 @@ export function HttpLoaderFactory(http: HttpClient): TranslateHttpLoader {
 }
 
 @NgModule({
-  declarations: [AppComponent, SidebarComponent, SettingsComponent, LibraryComponent, DownloadedComponent, UnplayedComponent, PlaylistComponent, LibraryCardComponent, PodcastComponent, PodcastListItemComponent, PodcastEpisodeListItemComponent, PodcastEpisodeDateComponent, PlayerComponent],
+  declarations: [AppComponent, SidebarComponent, SettingsComponent, LibraryComponent, DownloadedComponent, UnplayedComponent, PlaylistComponent, LibraryCardComponent, PodcastComponent, PodcastListItemComponent, PodcastEpisodeListItemComponent, PodcastEpisodeDateComponent, PlayerComponent, TitlebarComponent],
   imports: [
     BrowserModule,
     FormsModule,

@@ -1,8 +1,13 @@
 <div class="container-fluid" id="app_container">
+  <div class="row navbar-dark" id="title_bar">
+    <app-titlebar></app-titlebar>
+  </div>
   <div class="row">
     <nav
       id="sidebarMenu"
-      class="col-md-3 col-lg-2 d-md-block sidebar collapse"
+      class="col-md-3 col-lg-2 d-md-block sidebar collapse {{
+        this.show ? 'show' : ''
+      }}"
       sidebar
     ></nav>
 

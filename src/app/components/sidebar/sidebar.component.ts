@@ -1,5 +1,6 @@
 import { Component, OnInit } from "@angular/core";
 import { addPodcast } from "../../../lib/rss/addPodcast";
+import { sideBar$ } from "../../../lib/rss/data";
 
 @Component({
   selector: "[sidebar]",

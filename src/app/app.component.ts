@@ -2,7 +2,7 @@ import { Component, OnInit } from "@angular/core";
 import { ElectronService } from "./core/services";
 import { TranslateService } from "@ngx-translate/core";
 import { AppConfig } from "../environments/environment";
-import { db$, downloadPodcast } from "../lib/rss/data";
+import { db$, downloadPodcast, sideBar$ } from "../lib/rss/data";
 import { HttpClient } from "@angular/common/http";
 @Component({
   selector: "app-root",
@@ -10,6 +10,8 @@ import { HttpClient } from "@angular/common/http";
   styleUrls: ["./app.component.scss"],
 })
 export class AppComponent implements OnInit {
+  show = false;
+
   constructor(
     private electronService: ElectronService,
     private translate: TranslateService,
@@ -30,6 +32,11 @@ export class AppComponent implements OnInit {
     db$.init(); //.subscribe();
   }
   ngOnInit(): void {
+    sideBar$.subscribe((o) => {
+      console.log(o);
+
+      this.show = !this.show;
+    });
     // this.httpClient
     //   .get("assets/rss.xml", { responseType: "text" })
     //   .subscribe((o) => {
