@@ -22,7 +22,11 @@ podcasts$.subscribe(async (o) => {
 });
 
 export function downloadPodcast(url: string) {
-  return of(axios.get(url, { responseType: "text" })).pipe(
+  return of(
+    axios.get(`https://thingproxy.freeboard.io/fetch/${url}`, {
+      responseType: "text",
+    })
+  ).pipe(
     mergeMap((o) => o),
     map((axiosData) => {
       try {
