@@ -8,6 +8,7 @@ export class Episode implements DBItem {
   title: string;
   author: string;
   subTitle: string;
+  fileType: "audio" | "video";
   description: string;
   url: string;
   guid: string;
@@ -57,6 +58,13 @@ function parseTags(elm: HTMLElement) {
 
   return tags.split(",").map((tag) => tag.trim());
 }
+
+function fileType(elm: HTMLElement): "video" | "audio" {
+  const url = elm.querySelector("enclosure")?.getAttribute("type");
+
+  return !url?.includes("video") ? "audio" : "video";
+}
+
 export function parsePodcastEpisodes(document: Document) {
   return Array.from(document.querySelectorAll("rss > channel > item")).map(
     (elm: HTMLElement): Episode => {
@@ -72,6 +80,7 @@ export function parsePodcastEpisodes(document: Document) {
         subTitle: parseSubTitle(elm),
         tags: ["episode"].concat(parseTags(elm)),
         title: parseTitle(elm),
+        fileType: fileType(elm),
       };
     }
   );

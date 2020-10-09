@@ -1,2 +1,6 @@
-<audio [src]="episode?.url" autoplay></audio>
-<video></video>
+<audio
+  [src]="episode?.url"
+  autoplay
+  *ngIf="episode?.fileType === 'audio'"
+></audio>
+<video [src]="episode?.url" *ngIf="episode?.fileType === 'video'"></video>
