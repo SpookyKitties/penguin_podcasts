@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Skeptoid</title>
+    <link>https://skeptoid.com</link>
+    <language>en-us</language>
+    <copyright>2006-2020 Skeptoid Media, Inc. All Rights Reserved.</copyright>
+    <itunes:subtitle>A weekly look at the true facts behind urban legends and stories you've probably heard.
+    </itunes:subtitle>
+    <itunes:author>Brian Dunning</itunes:author>
+    <itunes:summary>The true science behind our most popular urban legends. Historical mysteries, paranormal claims,
+      popular science myths, aliens and UFO reports, conspiracy theories, and worthless alternative medicine schemes...
+      Skeptoid has you covered. From the sublime to the startling, no topic is sacred. Weekly since 2006.
+    </itunes:summary>
+    <description>The true science behind our most popular urban legends. Historical mysteries, paranormal claims,
+      popular science myths, aliens and UFO reports, conspiracy theories, and worthless alternative medicine schemes...
+      Skeptoid has you covered. From the sublime to the startling, no topic is sacred. Weekly since 2006.</description>
+    <itunes:owner>
+      <itunes:name>Brian Dunning</itunes:name>
+      <itunes:email>brian@skeptoid.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>Clean</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:keywords>skeptic, science, urban legends, paranormal, skepticism, conspiracy theories, history
+    </itunes:keywords>
+    <image>
+      <url>https://skeptoid.com/images/1400.png</url>
+      <title>Skeptoid</title>
+      <link>https://skeptoid.com</link>
+    </image>
+    <itunes:image href="https://skeptoid.com/images/1400.png" />
+    <itunes:category text="Science">
+      <itunes:category text="Social Sciences" />
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <itunes:category text="History" />
+    <atom:link href="https://skeptoid.com/podcast.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skeptoid #746: Error Correction: Tokyo Drift</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Error Correction: Tokyo Drift</itunes:title>
+      <itunes:subtitle>Error Correction: Tokyo Drift</itunes:subtitle>
+      <itunes:summary>Skeptoid corrects another round of errors sent in by listeners just like you.</itunes:summary>
+      <itunes:episode>746</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Skeptoid corrects another round of errors sent in by listeners just like you.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4746.mp3" type="audio/mpeg"
+        length="12951096" />
+      <guid>https://skeptoid.com/episodes/4746</guid>
+      <link>https://skeptoid.com/episodes/4746</link>
+      <pubDate>Tue, 22 Sep 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:35</itunes:duration>
+      <itunes:keywords>hollow earth, erin brockovich, 5g, weather satellites, mary celesteninjas, graham hancock
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>Outpost 2020</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Outpost 2020</itunes:title>
+      <itunes:subtitle>Outpost 2020</itunes:subtitle>
+      <itunes:summary>A new online con bridging popular fandom and science, coming to you October 23-25.
+      </itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>A new online con bridging popular fandom and science, coming to you October 23-25.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3069.mp3" type="audio/mpeg"
+        length="3088755" />
+      <guid>https://skeptoid.com/episodes/3069</guid>
+      <link>https://skeptoid.com/episodes/3069</link>
+      <pubDate>Thu, 17 Sep 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>3:53</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #745: Australia Doesn't Exist, and Other Geographic Conspiracy Theories</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Australia Doesn't Exist, and Other Geographic Conspiracy Theories</itunes:title>
+      <itunes:subtitle>Australia Doesn't Exist, and Other Geographic Conspiracy Theories</itunes:subtitle>
+      <itunes:summary>The belief that Australia doesn't exist may not be as unique as you think.</itunes:summary>
+      <itunes:episode>745</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The belief that Australia doesn't exist may not be as unique as you think.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4745.mp3" type="audio/mpeg"
+        length="11754218" />
+      <guid>https://skeptoid.com/episodes/4745</guid>
+      <link>https://skeptoid.com/episodes/4745</link>
+      <pubDate>Tue, 15 Sep 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:56</itunes:duration>
+      <itunes:keywords>bielefeld, finald doesn't exist, australia doesn't exist, bermeja, frisland</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #744: Phineas Gage, on Second Thought</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Phineas Gage, on Second Thought</itunes:title>
+      <itunes:subtitle>Phineas Gage, on Second Thought</itunes:subtitle>
+      <itunes:summary>A reexamination of the famous case of the man whose personality changed from a grievous brain
+        injury.</itunes:summary>
+      <itunes:episode>744</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A reexamination of the famous case of the man whose personality changed from a grievous brain injury.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4744.mp3" type="audio/mpeg"
+        length="12101500" />
+      <guid>https://skeptoid.com/episodes/4744</guid>
+      <link>https://skeptoid.com/episodes/4744</link>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:48</itunes:duration>
+      <itunes:keywords>phineas gage, brain injury, personality change</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #743: Hinkley: The Erin Brockovich Case</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Hinkley: The Erin Brockovich Case</itunes:title>
+      <itunes:subtitle>Hinkley: The Erin Brockovich Case</itunes:subtitle>
+      <itunes:summary>The facts differ widely from what's generally believed to have been a mass poisoning.
+      </itunes:summary>
+      <itunes:episode>743</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The facts differ widely from what's generally believed to have been a mass poisoning.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4743.mp3" type="audio/mpeg"
+        length="13180969" />
+      <guid>https://skeptoid.com/episodes/4743</guid>
+      <link>https://skeptoid.com/episodes/4743</link>
+      <pubDate>Tue, 01 Sep 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:54</itunes:duration>
+      <itunes:keywords>industrial waste, pge, corporate greed</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #742: The Phantom Fortress</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Phantom Fortress</itunes:title>
+      <itunes:subtitle>The Phantom Fortress</itunes:subtitle>
+      <itunes:summary>This B-17 supposedly completed a mission and returned to base, all without an aircrew.
+      </itunes:summary>
+      <itunes:episode>742</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>This B-17 supposedly completed a mission and returned to base, all without an aircrew.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4742.mp3" type="audio/mpeg"
+        length="11914715" />
+      <guid>https://skeptoid.com/episodes/4742</guid>
+      <link>https://skeptoid.com/episodes/4742</link>
+      <pubDate>Tue, 25 Aug 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:09</itunes:duration>
+      <itunes:keywords>b-17, flying fortress, ghost ship, phantom fort</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #741: The Wisdom and Stupidity of Crowds</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Wisdom and Stupidity of Crowds</itunes:title>
+      <itunes:subtitle>The Wisdom and Stupidity of Crowds</itunes:subtitle>
+      <itunes:summary>How the wisdom of crowds can sometimes allow groups of non-experts to reach an expert conclusion.
+      </itunes:summary>
+      <itunes:episode>741</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>How the wisdom of crowds can sometimes allow groups of non-experts to reach an expert conclusion.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4741.mp3" type="audio/mpeg"
+        length="12485542" />
+      <guid>https://skeptoid.com/episodes/4741</guid>
+      <link>https://skeptoid.com/episodes/4741</link>
+      <pubDate>Tue, 18 Aug 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:57</itunes:duration>
+      <itunes:keywords>uss scorpion, francis galton, wisdom of crowds</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #740: Student Questions: Yellow Glasses and Nuclear Waste for Tomorrow</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Student Questions: Yellow Glasses and Nuclear Waste for Tomorrow</itunes:title>
+      <itunes:subtitle>Student Questions: Yellow Glasses and Nuclear Waste for Tomorrow</itunes:subtitle>
+      <itunes:summary>Skeptoid answers another round of questions sent in by students all around the world.
+      </itunes:summary>
+      <itunes:episode>740</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Skeptoid answers another round of questions sent in by students all around the world.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4740.mp3" type="audio/mpeg"
+        length="12586793" />
+      <guid>https://skeptoid.com/episodes/4740</guid>
+      <link>https://skeptoid.com/episodes/4740</link>
+      <pubDate>Tue, 11 Aug 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:05</itunes:duration>
+      <itunes:keywords>yellow glasses, infrasound, padre pio, vegan oysters, veganism, nuclear semiotics
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #739: More on 5G and COVID Masks</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>More on 5G and COVID Masks</itunes:title>
+      <itunes:subtitle>More on 5G and COVID Masks</itunes:subtitle>
+      <itunes:summary>Some supplemental information on recent episodes, plus some listener feedback.</itunes:summary>
+      <itunes:episode>739</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Some supplemental information on recent episodes, plus some listener feedback.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4739.mp3" type="audio/mpeg"
+        length="11683110" />
+      <guid>https://skeptoid.com/episodes/4739</guid>
+      <link>https://skeptoid.com/episodes/4739</link>
+      <pubDate>Tue, 04 Aug 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:50</itunes:duration>
+      <itunes:keywords>5g, covid-19, masks, pandemic, coronavirus, stendec, hammersmith</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #738: The QAnon Conspiracy</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The QAnon Conspiracy</itunes:title>
+      <itunes:subtitle>The QAnon Conspiracy</itunes:subtitle>
+      <itunes:summary>This growing conspiracy theory posits that a global cabal of pedophiles secretly controls the US
+        government.</itunes:summary>
+      <itunes:episode>738</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>This growing conspiracy theory posits that a global cabal of pedophiles secretly controls the US
+        government.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4738.mp3" type="audio/mpeg"
+        length="13020370" />
+      <guid>https://skeptoid.com/episodes/4738</guid>
+      <link>https://skeptoid.com/episodes/4738</link>
+      <pubDate>Tue, 28 Jul 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:41</itunes:duration>
+      <itunes:keywords>q, qanon, trump, donald trump, hillary clinton, george soros, conspiracy theory</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #737: The Berkshire County UFO</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Berkshire County UFO</itunes:title>
+      <itunes:subtitle>The Berkshire County UFO</itunes:subtitle>
+      <itunes:summary>Why a UFO case you've probably never heard of got attention from a major TV network.
+      </itunes:summary>
+      <itunes:episode>737</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Why a UFO case you've probably never heard of got attention from a major TV network.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4737.mp3" type="audio/mpeg"
+        length="13189859" />
+      <guid>https://skeptoid.com/episodes/4737</guid>
+      <link>https://skeptoid.com/episodes/4737</link>
+      <pubDate>Tue, 21 Jul 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>18:18</itunes:duration>
+      <itunes:keywords>ufo, berkshires, berkshire county, aliens, alien abduction</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #736: New World Tobacco in Old World Mummies</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>New World Tobacco in Old World Mummies</itunes:title>
+      <itunes:subtitle>New World Tobacco in Old World Mummies</itunes:subtitle>
+      <itunes:summary>Some believe that traces of tobacco in Egyptian mummies prove the Egyptians were first to the New
+        World.</itunes:summary>
+      <itunes:episode>736</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Some believe that traces of tobacco in Egyptian mummies prove the Egyptians were first to the New
+        World.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4736.mp3" type="audio/mpeg"
+        length="12128875" />
+      <guid>https://skeptoid.com/episodes/4736</guid>
+      <link>https://skeptoid.com/episodes/4736</link>
+      <pubDate>Tue, 14 Jul 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:27</itunes:duration>
+      <itunes:keywords>egypt, mummies, rameses II, cocaine, tobacco, nicotine</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #735: Bill Gates Conspiracy Theories</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Bill Gates Conspiracy Theories</itunes:title>
+      <itunes:subtitle>Bill Gates Conspiracy Theories</itunes:subtitle>
+      <itunes:summary>Why is the world's greatest public health philanthropist charged with crimes against humanity?
+      </itunes:summary>
+      <itunes:episode>735</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Why is the world's greatest public health philanthropist charged with crimes against humanity?
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4735.mp3" type="audio/mpeg"
+        length="12628224" />
+      <guid>https://skeptoid.com/episodes/4735</guid>
+      <link>https://skeptoid.com/episodes/4735</link>
+      <pubDate>Tue, 07 Jul 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:08</itunes:duration>
+      <itunes:keywords>bill gates, coronavirus, covid, covide-19, ghana, public health, philanthropy</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #734: The Stoned Ape Theory</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Stoned Ape Theory</itunes:title>
+      <itunes:subtitle>The Stoned Ape Theory</itunes:subtitle>
+      <itunes:summary>Some believe that psychedelic drugs played an irreplaceable role in the evolution of Homo sapiens.
+      </itunes:summary>
+      <itunes:episode>734</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Some believe that psychedelic drugs played an irreplaceable role in the evolution of Homo sapiens.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4734.mp3" type="audio/mpeg"
+        length="12592435" />
+      <guid>https://skeptoid.com/episodes/4734</guid>
+      <link>https://skeptoid.com/episodes/4734</link>
+      <pubDate>Tue, 30 Jun 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:05</itunes:duration>
+      <itunes:keywords>drugs, hallucinogens, psychedelics, marijuana, DMT, psilocybin</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #733: Listener Feedback: Endgame</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Listener Feedback: Endgame</itunes:title>
+      <itunes:subtitle>Listener Feedback: Endgame</itunes:subtitle>
+      <itunes:summary>Updates to the episode on MSG sensitivity and the Miracle of Calanda.</itunes:summary>
+      <itunes:episode>733</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Updates to the episode on MSG sensitivity and the Miracle of Calanda.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4733.mp3" type="audio/mpeg"
+        length="11772182" />
+      <guid>https://skeptoid.com/episodes/4733</guid>
+      <link>https://skeptoid.com/episodes/4733</link>
+      <pubDate>Tue, 23 Jun 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:57</itunes:duration>
+      <itunes:keywords>miracle of calanda, juan pellicero, pellicero, zaragoza</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #732: Hunting the Beast of Gevaudan</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Hunting the Beast of Gevaudan</itunes:title>
+      <itunes:subtitle>Hunting the Beast of Gevaudan</itunes:subtitle>
+      <itunes:summary>This mysterious creature actually killed over 100 people in France in the 1760s.</itunes:summary>
+      <itunes:episode>732</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>This mysterious creature actually killed over 100 people in France in the 1760s.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4732.mp3" type="audio/mpeg"
+        length="12217980" />
+      <guid>https://skeptoid.com/episodes/4732</guid>
+      <link>https://skeptoid.com/episodes/4732</link>
+      <pubDate>Tue, 16 Jun 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:34</itunes:duration>
+      <itunes:keywords>crytid, cryptozoology, france, beast</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Truth vs. Hollywood podcast preview</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Truth vs. Hollywood podcast preview</itunes:title>
+      <itunes:subtitle>Truth vs. Hollywood podcast preview</itunes:subtitle>
+      <itunes:summary>Introducing the newest Audioboom original podcast, Truth vs Hollywood. Join Film lovers David Chen
+        and Joanna Robinson </itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>Introducing the newest Audioboom original podcast, Truth vs Hollywood. Join Film lovers David Chen
+        and Joanna Robinson </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3068.mp3" type="audio/mpeg"
+        length="11944750" />
+      <guid>https://skeptoid.com/episodes/3068</guid>
+      <link>https://skeptoid.com/episodes/3068</link>
+      <pubDate>Fri, 12 Jun 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>13:25</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #731: More Out of Place Artifacts</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>More Out of Place Artifacts</itunes:title>
+      <itunes:subtitle>More Out of Place Artifacts</itunes:subtitle>
+      <itunes:summary>A survey of seven of the most popular out-of-place artifacts said to overturn human history.
+      </itunes:summary>
+      <itunes:episode>731</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A survey of seven of the most popular out-of-place artifacts said to overturn human history.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4731.mp3" type="audio/mpeg"
+        length="12431989" />
+      <guid>https://skeptoid.com/episodes/4731</guid>
+      <link>https://skeptoid.com/episodes/4731</link>
+      <pubDate>Tue, 09 Jun 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:52</itunes:duration>
+      <itunes:keywords>acambaro, london hammer, wolfsegg iron, dorchester pot, wedge of aiud, upshur bell, dashka stone
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #730: The Skeletons of the Great Eastern</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Skeletons of the Great Eastern</itunes:title>
+      <itunes:subtitle>The Skeletons of the Great Eastern</itunes:subtitle>
+      <itunes:summary>A popular tale claims that the skeletons of two riveters were found between the hulls of this
+        mighty ship.</itunes:summary>
+      <itunes:episode>730</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A popular tale claims that the skeletons of two riveters were found between the hulls of this mighty
+        ship.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4730.mp3" type="audio/mpeg"
+        length="11879132" />
+      <guid>https://skeptoid.com/episodes/4730</guid>
+      <link>https://skeptoid.com/episodes/4730</link>
+      <pubDate>Tue, 02 Jun 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:06</itunes:duration>
+      <itunes:keywords>great eastern, ghost story, skeletons</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #729: The LUCIFER Telescope Conspiracy</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The LUCIFER Telescope Conspiracy</itunes:title>
+      <itunes:subtitle>The LUCIFER Telescope Conspiracy</itunes:subtitle>
+      <itunes:summary>A popular conspiracy theory claims the Vatican uses a telescope named LUCIFER to find an alien
+        savior.</itunes:summary>
+      <itunes:episode>729</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A popular conspiracy theory claims the Vatican uses a telescope named LUCIFER to find an alien
+        savior.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4729.mp3" type="audio/mpeg"
+        length="11879130" />
+      <guid>https://skeptoid.com/episodes/4729</guid>
+      <link>https://skeptoid.com/episodes/4729</link>
+      <pubDate>Tue, 26 May 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:06</itunes:duration>
+      <itunes:keywords>catholic church, pope, aliens, ufo, second coming</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid: Discord Channel</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Skeptoid: Discord Channel</itunes:title>
+      <itunes:subtitle>Skeptoid: Discord Channel</itunes:subtitle>
+      <itunes:summary>Announcing the Skeptoid Discord channel! Come on in and join the conversation now, just visit
+        skeptoid.com/discord</itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>Announcing the Skeptoid Discord channel! Come on in and join the conversation now, just visit
+        skeptoid.com/discord</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3067.mp3" type="audio/mpeg"
+        length="2070953" />
+      <guid>https://skeptoid.com/episodes/3067</guid>
+      <link>https://skeptoid.com/episodes/3067</link>
+      <pubDate>Thu, 21 May 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>2:29</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #728: When the Earth's Magnetic Field Flips</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>When the Earth's Magnetic Field Flips</itunes:title>
+      <itunes:subtitle>When the Earth's Magnetic Field Flips</itunes:subtitle>
+      <itunes:summary>Some claim that when the Earth's geomagnetic field reverses, it could spell the end of humankind.
+      </itunes:summary>
+      <itunes:episode>728</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Some claim that when the Earth's geomagnetic field reverses, it could spell the end of humankind.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4728.mp3" type="audio/mpeg"
+        length="14019191" />
+      <guid>https://skeptoid.com/episodes/4728</guid>
+      <link>https://skeptoid.com/episodes/4728</link>
+      <pubDate>Tue, 19 May 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>19:04</itunes:duration>
+      <itunes:keywords>magnetic field, pole shift, geomagnetic reversal</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #727: Hunting the Mokele-Mbembe</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Hunting the Mokele-Mbembe</itunes:title>
+      <itunes:subtitle>Hunting the Mokele-Mbembe</itunes:subtitle>
+      <itunes:summary>Some believe this relict dinosaur still survives in parts of the Congo.</itunes:summary>
+      <itunes:episode>727</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Some believe this relict dinosaur still survives in parts of the Congo.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4727.mp3" type="audio/mpeg"
+        length="12788811" />
+      <guid>https://skeptoid.com/episodes/4727</guid>
+      <link>https://skeptoid.com/episodes/4727</link>
+      <pubDate>Tue, 12 May 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:22</itunes:duration>
+      <itunes:keywords>dinosaur, congo, africa, sauropod, brontosaurus</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #726: Full of Hot Error</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Full of Hot Error</itunes:title>
+      <itunes:subtitle>Full of Hot Error</itunes:subtitle>
+      <itunes:summary>Skeptoid corrects another round of errors found in past episodes.</itunes:summary>
+      <itunes:episode>726</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Skeptoid corrects another round of errors found in past episodes.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4726.mp3" type="audio/mpeg"
+        length="11397490" />
+      <guid>https://skeptoid.com/episodes/4726</guid>
+      <link>https://skeptoid.com/episodes/4726</link>
+      <pubDate>Tue, 05 May 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:26</itunes:duration>
+      <itunes:keywords>betz sphere, sound barrier, ellen austin, alkaline water, maelstrom</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #725: Pop Quiz: Astonishing Tales of the Sea</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Pop Quiz: Astonishing Tales of the Sea</itunes:title>
+      <itunes:subtitle>Pop Quiz: Astonishing Tales of the Sea</itunes:subtitle>
+      <itunes:summary>How well do you know your Skeptoid? Today's pop quiz focuses on tales of the sea.</itunes:summary>
+      <itunes:episode>725</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>How well do you know your Skeptoid? Today's pop quiz focuses on tales of the sea.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4725.mp3" type="audio/mpeg"
+        length="12949321" />
+      <guid>https://skeptoid.com/episodes/4725</guid>
+      <link>https://skeptoid.com/episodes/4725</link>
+      <pubDate>Tue, 28 Apr 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:35</itunes:duration>
+      <itunes:keywords>mary celeste, philadelphia experiment, sargasso sea, flannan lighthouse, captain kidd
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>The Dating Game Killer podcast preview</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Dating Game Killer podcast preview</itunes:title>
+      <itunes:subtitle>The Dating Game Killer podcast preview</itunes:subtitle>
+      <itunes:summary>In 1978, Rodney Alcala won a date on the popular TV show, The Dating Game. What no one knew was
+        that he was a prolific serial killer in the middle of a cross-country murder spree. In this six-part series,
+        co-hosts Tracy Pattin (Hollywood and Crime) and Stephen Lang (Avatar, Don't Breathe) take listeners on an
+        unbelievable journey into Alcala's twisting secret life. He hid behind normal jobs as a typesetter at a
+        prominent newspaper and a summer camp counselor. How did this predatory monster fool employers, prison
+        psychiatrists, and parole boards, all while committing heinous crimes from coast to coast? And how did a
+        one-time appearance as a game show contestant help lead to his capture? From the makers of Dirty John, Dr.
+        Death, and Young Charlie, comes the story of the most famous serial killer you've never heard of - The Dating
+        Game Killer.
+
+        Listen today at wondery.fm/skeptoidDGK</itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>In 1978, Rodney Alcala won a date on the popular TV show, The Dating Game. What no one knew was that
+        he was a prolific serial killer in the middle of a cross-country murder spree. In this six-part series, co-hosts
+        Tracy Pattin (Hollywood and Crime) and Stephen Lang (Avatar, Don't Breathe) take listeners on an unbelievable
+        journey into Alcala's twisting secret life. He hid behind normal jobs as a typesetter at a prominent newspaper
+        and a summer camp counselor. How did this predatory monster fool employers, prison psychiatrists, and parole
+        boards, all while committing heinous crimes from coast to coast? And how did a one-time appearance as a game
+        show contestant help lead to his capture? From the makers of Dirty John, Dr. Death, and Young Charlie, comes the
+        story of the most famous serial killer you've never heard of - The Dating Game Killer.
+
+        Listen today at wondery.fm/skeptoidDGK</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3066.mp3" type="audio/mpeg"
+        length="6351004" />
+      <guid>https://skeptoid.com/episodes/3066</guid>
+      <link>https://skeptoid.com/episodes/3066</link>
+      <pubDate>Wed, 22 Apr 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>8:25</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #724: Decoding Gobekli Tepe</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Decoding Gobekli Tepe</itunes:title>
+      <itunes:subtitle>Decoding Gobekli Tepe</itunes:subtitle>
+      <itunes:summary>This archaeological site in Turkey is said to change everything... but what does that really mean?
+      </itunes:summary>
+      <itunes:episode>724</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>This archaeological site in Turkey is said to change everything... but what does that really mean?
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4724.mp3" type="audio/mpeg"
+        length="12574433" />
+      <guid>https://skeptoid.com/episodes/4724</guid>
+      <link>https://skeptoid.com/episodes/4724</link>
+      <pubDate>Tue, 21 Apr 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:04</itunes:duration>
+      <itunes:keywords>ancient aliens, ancient civilizations, gobekli tepe, stonehenge, graham hancock</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #723: Draining the Holy Grail</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Draining the Holy Grail</itunes:title>
+      <itunes:subtitle>Draining the Holy Grail</itunes:subtitle>
+      <itunes:summary>The true history of the Holy Grail, the most precious of all artifacts.</itunes:summary>
+      <itunes:episode>723</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The true history of the Holy Grail, the most precious of all artifacts.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4723.mp3" type="audio/mpeg"
+        length="12646085" />
+      <guid>https://skeptoid.com/episodes/4723</guid>
+      <link>https://skeptoid.com/episodes/4723</link>
+      <pubDate>Tue, 14 Apr 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>17:10</itunes:duration>
+      <itunes:keywords>holy grail, king arthur, da vinci code, holy blood, royal blood</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #722: Pandemic Conspiracies and Politics</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Pandemic Conspiracies and Politics</itunes:title>
+      <itunes:subtitle>Pandemic Conspiracies and Politics</itunes:subtitle>
+      <itunes:summary>How the conspiracy theories around today's pandemic compare to those of the past.</itunes:summary>
+      <itunes:episode>722</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>How the conspiracy theories around today's pandemic compare to those of the past.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4722.mp3" type="audio/mpeg"
+        length="11875588" />
+      <guid>https://skeptoid.com/episodes/4722</guid>
+      <link>https://skeptoid.com/episodes/4722</link>
+      <pubDate>Tue, 07 Apr 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:06</itunes:duration>
+      <itunes:keywords>pandemic, epidemic, outbreak, covid-19, coronavirus, typhus, black death, bubonic plague
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #721: Debunking Ancient Aliens, Part 3</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Debunking Ancient Aliens, Part 3</itunes:title>
+      <itunes:subtitle>Debunking Ancient Aliens, Part 3</itunes:subtitle>
+      <itunes:summary>A look at some of the ancient artworks and artifacts that the show Ancient Aliens gets totally
+        wrong.</itunes:summary>
+      <itunes:episode>721</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A look at some of the ancient artworks and artifacts that the show Ancient Aliens gets totally wrong.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4721.mp3" type="audio/mpeg"
+        length="11362123" />
+      <guid>https://skeptoid.com/episodes/4721</guid>
+      <link>https://skeptoid.com/episodes/4721</link>
+      <pubDate>Tue, 31 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:23</itunes:duration>
+      <itunes:keywords>palenque astronaut, pakal rocket, nazca lines, quimbaya airplanes, egyptian light bulbs, crystal
+        skulls</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #720: Debunking Ancient Aliens, Part 2</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Debunking Ancient Aliens, Part 2</itunes:title>
+      <itunes:subtitle>Debunking Ancient Aliens, Part 2</itunes:subtitle>
+      <itunes:summary>A look at some of the ancient sites and cities that the show Ancient Aliens gets totally wrong.
+      </itunes:summary>
+      <itunes:episode>720</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A look at some of the ancient sites and cities that the show Ancient Aliens gets totally wrong.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4720.mp3" type="audio/mpeg"
+        length="12325101" />
+      <guid>https://skeptoid.com/episodes/4720</guid>
+      <link>https://skeptoid.com/episodes/4720</link>
+      <pubDate>Tue, 24 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:43</itunes:duration>
+      <itunes:keywords>puma punku, pumapunku, ancient aliens, baalbek, ellora caves, kailasa, great sphinx
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #719: Debunking Ancient Aliens, Part 1</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Debunking Ancient Aliens, Part 1</itunes:title>
+      <itunes:subtitle>Debunking Ancient Aliens, Part 1</itunes:subtitle>
+      <itunes:summary>A look at some of the ancient writings that the show Ancient Aliens gets totally wrong.
+      </itunes:summary>
+      <itunes:episode>719</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A look at some of the ancient writings that the show Ancient Aliens gets totally wrong.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4719.mp3" type="audio/mpeg"
+        length="11557986" />
+      <guid>https://skeptoid.com/episodes/4719</guid>
+      <link>https://skeptoid.com/episodes/4719</link>
+      <pubDate>Tue, 17 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:39</itunes:duration>
+      <itunes:keywords>ancient aliens, sumerians, anunnaki, osiris, vimanas</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Even the Rich podcast preview</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Even the Rich podcast preview</itunes:title>
+      <itunes:subtitle>Even the Rich podcast preview</itunes:subtitle>
+      <itunes:summary>From the Kennedys to the Kardashians and the Murdochs to the Royals, Even the Rich chronicles the
+        dramatic rise of the world’s most notorious families. Each week we take you inside the workings of the world’s
+        most powerful families to explore how these dynasties are built, and sometimes broken. It’s a world where the
+        stakes are high and rules don’t apply.
+
+        Subscribe today: wondery.fm/skeptoidETR</itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>From the Kennedys to the Kardashians and the Murdochs to the Royals, Even the Rich chronicles the
+        dramatic rise of the world’s most notorious families. Each week we take you inside the workings of the world’s
+        most powerful families to explore how these dynasties are built, and sometimes broken. It’s a world where the
+        stakes are high and rules don’t apply.
+
+        Subscribe today: wondery.fm/skeptoidETR</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3064.mp3" type="audio/mpeg"
+        length="7040649" />
+      <guid>https://skeptoid.com/episodes/3064</guid>
+      <link>https://skeptoid.com/episodes/3064</link>
+      <pubDate>Tue, 17 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>9:23</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>School of Greatness podcast preview</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>School of Greatness podcast preview</itunes:title>
+      <itunes:subtitle>School of Greatness podcast preview</itunes:subtitle>
+      <itunes:summary>The School of Greatness with Lewis Howes is the best place to learn how to dream bigger, live
+        better, and make an impact.
+
+        The show features conversations with world-class game changers, and dives into topics from entrepreneurship and
+        inspiration, to health and relationships.
+
+        Subscribe today at:
+        wondery.fm/skeptoidSoG</itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>The School of Greatness with Lewis Howes is the best place to learn how to dream bigger, live better,
+        and make an impact.
+
+        The show features conversations with world-class game changers, and dives into topics from entrepreneurship and
+        inspiration, to health and relationships.
+
+        Subscribe today at:
+        wondery.fm/skeptoidSoG</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3063.mp3" type="audio/mpeg"
+        length="4702779" />
+      <guid>https://skeptoid.com/episodes/3063</guid>
+      <link>https://skeptoid.com/episodes/3063</link>
+      <pubDate>Thu, 12 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>6:08</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #718: Diagnosing Chronic Lyme Disease</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Diagnosing Chronic Lyme Disease</itunes:title>
+      <itunes:subtitle>Diagnosing Chronic Lyme Disease</itunes:subtitle>
+      <itunes:summary>Often dismissed as purely pseudoscientific and nonexistent, chronic Lyme disease is not
+        necessarily nothing.</itunes:summary>
+      <itunes:episode>718</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Often dismissed as purely pseudoscientific and nonexistent, chronic Lyme disease is not necessarily
+        nothing.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4718.mp3" type="audio/mpeg"
+        length="12307232" />
+      <guid>https://skeptoid.com/episodes/4718</guid>
+      <link>https://skeptoid.com/episodes/4718</link>
+      <pubDate>Tue, 10 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:42</itunes:duration>
+      <itunes:keywords>lyme disease, lyme literate, ptlds, chronic lyme disease</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Conspiracies Declassified: The SUPPRESSED Chapters!</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Conspiracies Declassified: The SUPPRESSED Chapters!</itunes:title>
+      <itunes:subtitle>Conspiracies Declassified: The SUPPRESSED Chapters!</itunes:subtitle>
+      <itunes:summary>Get the chapters THEY don't want you to read.</itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>Get the chapters THEY don't want you to read.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3062.mp3" type="audio/mpeg"
+        length="2427622" />
+      <guid>https://skeptoid.com/episodes/3062</guid>
+      <link>https://skeptoid.com/episodes/3062</link>
+      <pubDate>Fri, 06 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>2:58</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #717: Rethinking Plastic Straw Bans</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Rethinking Plastic Straw Bans</itunes:title>
+      <itunes:subtitle>Rethinking Plastic Straw Bans</itunes:subtitle>
+      <itunes:summary>Bans on plastic drinking straws are a solution in search of a problem.</itunes:summary>
+      <itunes:episode>717</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Bans on plastic drinking straws are a solution in search of a problem.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4717.mp3" type="audio/mpeg"
+        length="11861163" />
+      <guid>https://skeptoid.com/episodes/4717</guid>
+      <link>https://skeptoid.com/episodes/4717</link>
+      <pubDate>Tue, 03 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:04</itunes:duration>
+      <itunes:keywords>plastic straws, ocean plastic, plastic straw ban, sea turtle</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Introducing Lifes Little Mysteries</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Introducing Lifes Little Mysteries</itunes:title>
+      <itunes:subtitle>Introducing Lifes Little Mysteries</itunes:subtitle>
+      <itunes:summary>New podcast from Live Science and Audioboom:
+        https://podcasts.apple.com/us/podcast/lifes-little-mysteries/id1496044775</itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>New podcast from Live Science and Audioboom:
+        https://podcasts.apple.com/us/podcast/lifes-little-mysteries/id1496044775</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3061.mp3" type="audio/mpeg"
+        length="8811786" />
+      <guid>https://skeptoid.com/episodes/3061</guid>
+      <link>https://skeptoid.com/episodes/3061</link>
+      <pubDate>Mon, 02 Mar 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>11:50</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #716: Learning Languages from Brain Injuries</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Learning Languages from Brain Injuries</itunes:title>
+      <itunes:subtitle>Learning Languages from Brain Injuries</itunes:subtitle>
+      <itunes:summary>Popular stories on the Internet tell of people coming out of comas and suddenly speaking a new
+        language.</itunes:summary>
+      <itunes:episode>716</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Popular stories on the Internet tell of people coming out of comas and suddenly speaking a new
+        language.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4716.mp3" type="audio/mpeg"
+        length="11469118" />
+      <guid>https://skeptoid.com/episodes/4716</guid>
+      <link>https://skeptoid.com/episodes/4716</link>
+      <pubDate>Tue, 25 Feb 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:32</itunes:duration>
+      <itunes:keywords>coma, language, brain injury, concussion, foreign language syndrome, foreign accent syndrome
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #715: The Knowles Family UFO Incident</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Knowles Family UFO Incident</itunes:title>
+      <itunes:subtitle>The Knowles Family UFO Incident</itunes:subtitle>
+      <itunes:summary>This family's car is said to have been lifted off the road by a UFO and dropped.</itunes:summary>
+      <itunes:episode>715</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>This family's car is said to have been lifted off the road by a UFO and dropped.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4715.mp3" type="audio/mpeg"
+        length="11665248" />
+      <guid>https://skeptoid.com/episodes/4715</guid>
+      <link>https://skeptoid.com/episodes/4715</link>
+      <pubDate>Tue, 18 Feb 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:48</itunes:duration>
+      <itunes:keywords>ufo, aliens, spaceship, flying saucer, mundrabilla, nullarbor, knowles</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #714: Killing the Hammersmith Ghost</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Killing the Hammersmith Ghost</itunes:title>
+      <itunes:subtitle>Killing the Hammersmith Ghost</itunes:subtitle>
+      <itunes:summary>Some possible explanations for this infamously deadly 19th century haunting near London.
+      </itunes:summary>
+      <itunes:episode>714</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Some possible explanations for this infamously deadly 19th century haunting near London.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4714.mp3" type="audio/mpeg"
+        length="10737689" />
+      <guid>https://skeptoid.com/episodes/4714</guid>
+      <link>https://skeptoid.com/episodes/4714</link>
+      <pubDate>Tue, 11 Feb 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>14:31</itunes:duration>
+      <itunes:keywords>ghost, haunting, mass hysteria, phantasmagoria, ghosts</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #713: On the Trail of Red Mercury</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>On the Trail of Red Mercury</itunes:title>
+      <itunes:subtitle>On the Trail of Red Mercury</itunes:subtitle>
+      <itunes:summary>The most elusive substance in pop culture also purports to be one of the most destructive.
+      </itunes:summary>
+      <itunes:episode>713</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The most elusive substance in pop culture also purports to be one of the most destructive.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4713.mp3" type="audio/mpeg"
+        length="11843703" />
+      <guid>https://skeptoid.com/episodes/4713</guid>
+      <link>https://skeptoid.com/episodes/4713</link>
+      <pubDate>Tue, 04 Feb 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:03</itunes:duration>
+      <itunes:keywords>red mercury, atomic bomb, nuclear bomb, thermonuclear, terrorism, conspiracy theories
+      </itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #712: Apple Cider Vinegar Woo</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Apple Cider Vinegar Woo</itunes:title>
+      <itunes:subtitle>Apple Cider Vinegar Woo</itunes:subtitle>
+      <itunes:summary>A test of the many sensational health claims made for apple cider vinegar.</itunes:summary>
+      <itunes:episode>712</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>A test of the many sensational health claims made for apple cider vinegar.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4712.mp3" type="audio/mpeg"
+        length="11451235" />
+      <guid>https://skeptoid.com/episodes/4712</guid>
+      <link>https://skeptoid.com/episodes/4712</link>
+      <pubDate>Tue, 28 Jan 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>15:30</itunes:duration>
+      <itunes:keywords>vinegar, drinking vinegar, apple cider, apple cider vinegar</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #711: The Trashy Secret of Plastic Bag Bans</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>The Trashy Secret of Plastic Bag Bans</itunes:title>
+      <itunes:subtitle>The Trashy Secret of Plastic Bag Bans</itunes:subtitle>
+      <itunes:summary>Science decides the question of whether plastic bag bans help or hurt the environment.
+      </itunes:summary>
+      <itunes:episode>711</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Science decides the question of whether plastic bag bans help or hurt the environment.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4711.mp3" type="audio/mpeg"
+        length="12521024" />
+      <guid>https://skeptoid.com/episodes/4711</guid>
+      <link>https://skeptoid.com/episodes/4711</link>
+      <pubDate>Tue, 21 Jan 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:59</itunes:duration>
+      <itunes:keywords>plastic bags, plastic bag bans, global warming, climate change</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #710: Your Weirdest Thing, Vol. 4</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Your Weirdest Thing, Vol. 4</itunes:title>
+      <itunes:subtitle>Your Weirdest Thing, Vol. 4</itunes:subtitle>
+      <itunes:summary>I give my thoughts trying to solve some of your weirdest experiences.</itunes:summary>
+      <itunes:episode>710</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>I give my thoughts trying to solve some of your weirdest experiences.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4710.mp3" type="audio/mpeg"
+        length="12110633" />
+      <guid>https://skeptoid.com/episodes/4710</guid>
+      <link>https://skeptoid.com/episodes/4710</link>
+      <pubDate>Tue, 14 Jan 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:25</itunes:duration>
+      <itunes:keywords>ghost, ufo, anasazi, spirit, poltergeist, aliens</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #709: Wind Turbines and Birds</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Wind Turbines and Birds</itunes:title>
+      <itunes:subtitle>Wind Turbines and Birds</itunes:subtitle>
+      <itunes:summary>Wind turbines actually save many more bird lives than they destroy.</itunes:summary>
+      <itunes:episode>709</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Wind turbines actually save many more bird lives than they destroy.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4709.mp3" type="audio/mpeg"
+        length="12110992" />
+      <guid>https://skeptoid.com/episodes/4709</guid>
+      <link>https://skeptoid.com/episodes/4709</link>
+      <pubDate>Tue, 07 Jan 2020 09:00:00 GMT</pubDate>
+      <itunes:duration>16:25</itunes:duration>
+      <itunes:keywords>windmills, birds, wind turbines, wind farms</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #708: All About Sex Addiction</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>All About Sex Addiction</itunes:title>
+      <itunes:subtitle>All About Sex Addiction</itunes:subtitle>
+      <itunes:summary>The topic of sex addiction and what to do about it turns out to be more complicated than you may
+        think.</itunes:summary>
+      <itunes:episode>708</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The topic of sex addiction and what to do about it turns out to be more complicated than you may
+        think.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4708.mp3" type="audio/mpeg"
+        length="11611732" />
+      <guid>https://skeptoid.com/episodes/4708</guid>
+      <link>https://skeptoid.com/episodes/4708</link>
+      <pubDate>Tue, 31 Dec 2019 09:00:00 GMT</pubDate>
+      <itunes:duration>15:44</itunes:duration>
+      <itunes:keywords>sex addiction, hypersexual disorder, nymphomania, compulsive sexual behavior</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #707: Vermeer and the Camera Obscura</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Vermeer and the Camera Obscura</itunes:title>
+      <itunes:subtitle>Vermeer and the Camera Obscura</itunes:subtitle>
+      <itunes:summary>Popular claims that the painter Vermeer used a camera obscura contradict the evidence.
+      </itunes:summary>
+      <itunes:episode>707</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Popular claims that the painter Vermeer used a camera obscura contradict the evidence.</description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4707.mp3" type="audio/mpeg"
+        length="13002506" />
+      <guid>https://skeptoid.com/episodes/4707</guid>
+      <link>https://skeptoid.com/episodes/4707</link>
+      <pubDate>Tue, 24 Dec 2019 09:00:00 GMT</pubDate>
+      <itunes:duration>17:40</itunes:duration>
+      <itunes:keywords>vermeer, camera obscura, hockney-falco, philip steadman, tim jenison, penn and teller, tim's
+        vermeer</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Skeptoid #706: MSG: How a Friendly Flavor Became Your Enemy</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>MSG: How a Friendly Flavor Became Your Enemy</itunes:title>
+      <itunes:subtitle>MSG: How a Friendly Flavor Became Your Enemy</itunes:subtitle>
+      <itunes:summary>The history of this vilified flavoring is a wild ride through 20th century cultural influences.
+      </itunes:summary>
+      <itunes:episode>706</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>The history of this vilified flavoring is a wild ride through 20th century cultural influences.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-4706.mp3" type="audio/mpeg"
+        length="11558053" />
+      <guid>https://skeptoid.com/episodes/4706</guid>
+      <link>https://skeptoid.com/episodes/4706</link>
+      <pubDate>Tue, 17 Dec 2019 09:00:00 GMT</pubDate>
+      <itunes:duration>15:39</itunes:duration>
+      <itunes:keywords>msg, monosodium glutamate, glutamic acid, chinese restaurant syndrome</itunes:keywords>
+    </item>
+
+    <item>
+      <title>Blood Ties podcast preview</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>Blood Ties podcast preview</itunes:title>
+      <itunes:subtitle>Blood Ties podcast preview</itunes:subtitle>
+      <itunes:summary>A preview of the new podcast Blood Ties from Wondery, starring Josh Gad and Gillian Jacobs.
+      </itunes:summary>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>A preview of the new podcast Blood Ties from Wondery, starring Josh Gad and Gillian Jacobs.
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/skeptoid.com/audio/skeptoid-3059.mp3" type="audio/mpeg"
+        length="8776932" />
+      <guid>https://skeptoid.com/episodes/3059</guid>
+      <link>https://skeptoid.com/episodes/3059</link>
+      <pubDate>Tue, 17 Dec 2019 09:00:00 GMT</pubDate>
+      <itunes:duration>11:47</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+    </item>
+
+    <item>
+      <title>You're Listening to Skeptoid...</title>
+      <itunes:author>Brian Dunning</itunes:author>
+      <itunes:title>You're Listening to Skeptoid...</itunes:title>
+      <itunes:subtitle>You're Listening to Skeptoid...</itunes:subtitle>
+      <itunes:summary>You ever wonder about the truth behind popular urban legends? Or how about the craziest conspiracy
+        theories you hear about online, chemtrails, the Flat Earth, the Hollow Earth, is there anything to them at all?
+        Famous mysteries like what happened to Amelia Earhart, what's up with the Bermuda Triangle, who was Jack the
+        Ripper? What about famous ghost stories, like the Amityville Horror, or the Warrens? What was really going on
+        with that? Or this stuff they show on television: Ancient Aliens, Hunting Hitler, the Curse of Oak Island? You
+        know that junk isn't true but how do you find out what is? If you've always taken stories like these with a
+        grain of salt, Skeptoid is the show for you. Each week, we take one famous urban legend that a lot of people
+        believe, talk about how it got started, how and why people believe it, and what's the real science, the real
+        history behind what's going on. It's like a short, 15-minute podcast version of Mythbusters, but exhaustively
+        researched and referenced. If you're ready to be skeptical and ready to solve the deepest mysteries you always
+        wondered about, listen to Skeptoid, a 501C3 educational nonprofit.</itunes:summary>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <description>You ever wonder about the truth behind popular urban legends? Or how about the craziest conspiracy
+        theories you hear about online, chemtrails, the Flat Earth, the Hollow Earth, is there anything to them at all?
+        Famous mysteries like what happened to Amelia Earhart, what's up with the Bermuda Triangle, who was Jack the
+        Ripper? What about famous ghost stories, like the Amityville Horror, or the Warrens? What was really going on
+        with that? Or this stuff they show on television: Ancient Aliens, Hunting Hitler, the Curse of Oak Island? You
+        know that junk isn't true but how do you find out what is? If you've always taken stories like these with a
+        grain of salt, Skeptoid is the show for you. Each week, we take one famous urban legend that a lot of people
+        believe, talk about how it got started, how and why people believe it, and what's the real science, the real
+        history behind what's going on. It's like a short, 15-minute podcast version of Mythbusters, but exhaustively
+        researched and referenced. If you're ready to be skeptical and ready to solve the deepest mysteries you always
+        wondered about, listen to Skeptoid, a 501C3 educational nonprofit.</description>
+      <enclosure url="https://skeptoid.com/audio/skeptoid-trailer.mp3" type="audio/mpeg" length="1197314" />
+      <guid>https://skeptoid.com/</guid>
+      <link>https://skeptoid.com/</link>
+      <pubDate>Tue, 24 Sep 2019 09:00:00 GMT</pubDate>
+      <itunes:duration>1:16</itunes:duration>
+      <itunes:keywords>urbane legends, science, pseudoscience, mysteries</itunes:keywords>
+    </item>
+  </channel>
+</rss>
