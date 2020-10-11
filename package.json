@@ -91,16 +91,24 @@
     "typescript": "3.9.7",
     "wait-on": "5.0.1",
     "webdriver-manager": "12.1.7",
-    "zone.js": "0.11.1"
+    "zone.js": "0.11.1",
+    "@angular-devkit/architect": ">= 0.900 < 0.1100",
+    "firebase-tools": "^8.0.0",
+    "fuzzy": "^0.1.3",
+    "inquirer": "^6.2.2",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "open": "^7.0.3"
   },
   "engines": {
     "node": ">=10.13.0"
   },
   "dependencies": {
+    "@angular/fire": "6.0.3",
     "@types/pouchdb": "6.4.0",
     "@types/seed-random": "2.2.0",
     "isurl": "4.0.1",
     "pouchdb": "7.2.2",
-    "seed-random": "2.2.0"
+    "seed-random": "2.2.0",
+    "firebase": "^7.13.1"
   }
 }

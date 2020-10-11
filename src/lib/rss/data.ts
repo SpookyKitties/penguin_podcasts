@@ -25,9 +25,12 @@ podcasts$.subscribe(async (o) => {
 
 export function downloadPodcast(url: string) {
   return of(
-    axios.get(`https://thingproxy.freeboard.io/fetch/${url}`, {
-      responseType: "text",
-    })
+    axios.get(
+      `https://oith-function-test.azurewebsites.net/api/HttpTrigger?code=OaVlNwE4G3X/CMyIX77sL8fOtj2UyNlh/q8W2Ha79FlctEMb2F0dEQ==&url=${url}`,
+      {
+        responseType: "text",
+      }
+    )
   ).pipe(
     mergeMap((o) => o),
     map((axiosData) => {

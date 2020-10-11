@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "penguin-podcasts": {
+      "hosting": {
+        "angular-electron": [
+          "penguin-podcasts"
+        ]
+      }
+    }
+  }
+}
