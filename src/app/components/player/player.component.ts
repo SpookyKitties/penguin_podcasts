@@ -15,7 +15,7 @@ export class PlayerComponent implements OnInit, OnDestroy {
   @HostListener("")
   public episode: Episode;
 
-  constructor() {}
+  constructor() { }
   ngOnDestroy(): void {
     this.episode$?.unsubscribe();
   }
@@ -33,6 +33,10 @@ export class PlayerComponent implements OnInit, OnDestroy {
     }
     console.log(audVid?.paused);
   }
+  durationChanced(episode: Episode): void {
+    console.log(episode);
+    
+   }
 
   ngOnInit(): void {
     this.episode$ = currentEpisode
