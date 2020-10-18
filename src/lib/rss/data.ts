@@ -1,8 +1,9 @@
 import axios from "axios";
 import { BehaviorSubject, Observable, of, Subject } from "rxjs";
-import { map, mergeMap } from "rxjs/operators";
+import { filter, flatMap, map, mergeMap } from "rxjs/operators";
 import { Episode } from "../models/parsePodcastEpisodes";
 import { parsePodcast, Podcast } from "../models/Podcast";
+import { DBItem } from "../PouchRX/DBItem";
 import { PouchyRX } from "../PouchRX/PouchyRX";
 import { updatePodcasts } from "./podcastUpdate";
 export const db$ = new PouchyRX("penguin_podcasts");
@@ -22,6 +23,17 @@ podcasts$.subscribe(async (o) => {
   const p = await podcasts$.toPromise();
   console.log(p);
 });
+
+export function updatePlayTime(_id: string, time: number) {
+  return db$.get(_id).pipe(
+    filter((o) => o !== undefined),
+    map((dbItem: Podcast) => {
+      dbItem.time = time;
+      return db$.put(dbItem);
+    }),
+    flatMap((o) => o)
+  );
+}
 
 export function downloadPodcast(url: string) {
   return of(

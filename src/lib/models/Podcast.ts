@@ -34,6 +34,7 @@ export class Podcast implements DBItem, Playlist {
   episodes?: Episode[];
   episodeIDS: string[];
   image?: PodcastImage;
+  time?: number;
 }
 
 const rssChannel = "rss > channel";

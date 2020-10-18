@@ -2,7 +2,7 @@ import { Component, HostListener, OnDestroy, OnInit } from "@angular/core";
 import { Subscription } from "rxjs";
 import { filter } from "rxjs/operators";
 import { Episode } from "../../../lib/models/parsePodcastEpisodes";
-import { currentEpisode } from "../../../lib/rss/data";
+import { currentEpisode, updatePlayTime } from "../../../lib/rss/data";
 
 @Component({
   selector: "app-player",
@@ -15,7 +15,7 @@ export class PlayerComponent implements OnInit, OnDestroy {
   @HostListener("")
   public episode: Episode;
 
-  constructor() { }
+  constructor() {}
   ngOnDestroy(): void {
     this.episode$?.unsubscribe();
   }
@@ -33,10 +33,13 @@ export class PlayerComponent implements OnInit, OnDestroy {
     }
     console.log(audVid?.paused);
   }
-  durationChanced(episode: Episode): void {
-    console.log(episode);
-    
-   }
+  async durationChanced(event: Event, episode: Episode): Promise<void> {
+    try {
+      await updatePlayTime(episode._id, event.timeStamp).toPromise();
+    } catch (error) {
+      console.log(error);
+    }
+  }
 
   ngOnInit(): void {
     this.episode$ = currentEpisode
