@@ -24,6 +24,17 @@ podcasts$.subscribe(async (o) => {
   console.log(p);
 });
 
+export function episodePlayed(_id: string) {
+  return db$.get(_id).pipe(
+    filter((o) => o !== undefined),
+    map((podcast: Episode) => {
+      podcast.played = true;
+      return db$.put(podcast);
+    }),
+    flatMap((o) => o)
+  );
+}
+
 export function updatePlayTime(_id: string, time: number) {
   return db$.get(_id).pipe(
     filter((o) => o !== undefined),

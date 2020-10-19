@@ -3,6 +3,7 @@ import { DBItem } from "../PouchRX/DBItem";
 import { parseChildNodeTextContent } from "./parseChildNodeTextContent";
 import { parseTextContent } from "./parseTextContent";
 export class Episode implements DBItem {
+  playing?: boolean;
   _rev?: string;
   _id: string;
   title: string;
@@ -16,6 +17,7 @@ export class Episode implements DBItem {
   pubDate: Date;
   duration: string;
   tags: string[];
+  played: boolean;
 }
 
 const rssSelector = "rss > channel";

@@ -3,6 +3,11 @@
   autoplay
   *ngIf="episode?.fileType === 'audio'"
   (timeupdate)="durationChanced($event, episode)"
-  
+  (ended)="ended()"
 ></audio>
-<video [src]="episode?.url" *ngIf="episode?.fileType === 'video'" (timeupdate)="durationChanced($event, episode)"></video>
+<video
+  [src]="episode?.url"
+  *ngIf="episode?.fileType === 'video'"
+  (timeupdate)="durationChanced($event, episode)"
+  (ended)="ended()"
+></video>
